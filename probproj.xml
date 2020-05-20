@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pretext>
+  <book xml:id="prob-proj">
+  	<title> The Probability Project </title>
+  	<introduction>
+  <p>
+    Well, I guess I'm writing a textbook. What have I done?
+  </p>
+</introduction>
+
+<chapter xml:id="chapter-one">
+	<title> Probability Via Counting </title>
+	<introduction>
+	<p> There are a lot of ways to think about probability philosophically, but we will save that nuance until we have a good working relationship with probability. For now, we will approach probability through the idea of equally likely outcomes. In short, to calculate the probability of something occuring, we will calculate the number of ways that the thing can occur, and divide by the number of ways it could have gone. With this idea in mind, counting becomes paramount. Therefore, before we can deal with probability, we have to deal with counting. 
+</p>
+</introduction>
+
+
+
+
+<section xml:id="section-multiplication-principle">
+  <title>The Multiplication Principle</title>
+<activity xml:id="pre-work-mult-princ">
+  <p>
+  	<ol label="(a)">
+    	<li> 
+    		Suppose that you just moved to a new country and brought a limited wardrobe of three shirts and four pants. How many outfits (pairings of shirts and pants) can you form? To see the answer, lay out all the possible outfits in a grid (you might need to label your shirts and pants, feel free to be creative!)
+    	</li>
+ 
+  		<li> 
+  			If you had 100 shirts and 20 pants, how many outfits could you form? Would you want to list out all the possible outfits?
+  		</li>
+  </ol>
+</p>
+<interactive desmos="ttox1bvxku" width="60%" aspect="2:3" />
+</activity>
+</section>
+
+<section xml:id="section-multiple-paragraph">
+  <title>Endings</title>
+
+  <p>
+    This is a longer sentence that is followed by another sentence.
+    Two sentences, and a second paragraph to follow.
+  </p>
+
+  <p>
+    One more short paragraph.
+  </p>
+</section>
+</chapter>
+  </book>
+</pretext>
