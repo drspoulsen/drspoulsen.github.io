@@ -9,7 +9,7 @@ name: Dylan Poulsen
 description: Mathematician and Educator Seeking to Spread Mathematical Joy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/Headshot.png
+avatar: ![_config.yml]({{ site.baseurl }}/images/Headshot.png)
 
 #
 # Flags below are optional
@@ -21,15 +21,15 @@ footer-links:
   - username: dpoulsen
     instance: mathstodon.xyz
   dribbble:
-  email:
+  email: dpoulsen2@washcoll.edu
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: drspoulsen
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: drspoulsen
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
