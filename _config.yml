@@ -9,7 +9,7 @@ name: Dylan Poulsen
 description: Mathematician and Educator Seeking to Spread Mathematical Joy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![_config.yml]({{ site.baseurl }}/images/Headshot.png)
+avatar: /images/Headshot.png
 
 #
 # Flags below are optional
