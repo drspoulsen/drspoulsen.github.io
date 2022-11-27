@@ -9,4 +9,4 @@ When my partner and I get takeout from a local Italian restaurant, we like to or
 
 It's time to discuss mathematics, so by convention I wil switch to using "we" (as in, you and I, dear reader). First, we realize that the answer must depend on the angular size of the cake, since if the angle were extremely small, the place to make the cut would be nearly half the length of the slice. 
 
-So, we will model the slice of cake as a sector of a cylinder of radius one, with angle of $\theta$
+So, we will model the slice of cake as a sector of a cylinder of radius one, with angle of $$\theta$$
