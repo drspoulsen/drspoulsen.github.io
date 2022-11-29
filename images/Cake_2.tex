@@ -1,0 +1,53 @@
+\documentclass{standalone}
+\usepackage{mathtools}
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+\usetikzlibrary{decorations.pathreplacing}
+\usepackage{pgfplots}
+
+\definecolor{gr}{RGB}{76,156,122}
+\definecolor{or}{RGB}{201,102,39}
+\definecolor{pu}{RGB}{116,112,174}
+\definecolor{pi}{RGB}{212,62,135}
+
+\begin{document}
+
+\begin{tikzpicture}[baseline=(current bounding box.north)]
+
+% Draw the axes
+    \draw [->,black] (-1,0) -- (8,0);
+    \draw [->,black] (0,-1) -- (0,8);
+    \draw[black] (8.2,0) node {$x$};
+    \draw[black] (0,8.2) node {$y$};
+%onion
+
+\draw (7,0) arc
+    [
+        start angle=0,
+        end angle=30,
+        x radius=7,
+        y radius =7
+    ] ;
+    
+\draw[dashed,black] (4.7137079048,0) -- (4.7137079048,2.7);
+
+\draw[black] (0,0) -- (6.06217782649,3.5);
+
+\draw[decorate,decoration={brace,amplitude=10pt,raise=0,mirror},yshift=0pt] (0,0) -- (4.3865994806042,0) node [midway,yshift=-15pt, xshift =0]{$0.6733868435...$};
+
+\draw[decorate,decoration={brace,amplitude=10pt,raise=0,mirror},yshift=0pt]   (6.06217782649,3.5) -- (0,0) node [midway,yshift=15pt, xshift =-10pt]{$1$};
+
+
+\draw (1,0) arc
+    [
+        start angle=0,
+        end angle=30,
+        x radius=1,
+        y radius =1
+    ] ;
+
+\draw (1.1,.3) node {$\frac{\pi}{6}$};
+
+\end{tikzpicture}
+
+\end{document}
