@@ -11,7 +11,7 @@ It's time to discuss mathematics, so by convention I wil switch to using "we" (a
 
 So, we will model the slice of cake as a sector of a cylinder of radius one, with angle of $$\theta$$. To simplify things more, we recognize that the volume of the slice is the area of the top of the slice times the height of the cake, so we can just consider a sector of a circle of radius one with angle $$\theta$$ in the "standard position" for a triangle.
 
-Now, we will cut the cake perpindicular to the $x$-axis, at some number $x=c, 0<c<1$$. This creates a right triangle with base $$c$$ and height $$c \tan(\theta)$$, since the tangent of an angle is the ratio of the opposite to the adjacent side of a triangle. The area of the wedge shape is $$A_{\wedge} = 1/2 c^2 \tan(\theta)$$. In order to share fairly, $$A_{\text{wedge}}$$ must be half the the area of the entire slice, $$A_{\text{slice}}1/2 \theta $$. That is
+Now, we will cut the cake perpindicular to the $x$-axis, at some number $$x=c, 0<c<1$$. This creates a right triangle with base $$c$$ and height $$c \tan(\theta)$$, since the tangent of an angle is the ratio of the opposite to the adjacent side of a triangle. The area of the wedge shape is $$A_{\wedge} = 1/2 c^2 \tan(\theta)$$. In order to share fairly, $$A_{\text{wedge}}$$ must be half the the area of the entire slice, $$A_{\text{slice}}1/2 \theta $$. That is
 
 $$1/2 c^2 \tan(\theta) = 1/4 \theta .$$
 
