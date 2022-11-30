@@ -9,7 +9,7 @@ When my partner and I get takeout from a local Italian restaurant, we like to or
 
 Where should the slice be made to result in an even split? 
 
-### Get Out Your Protractor and Ruler, We're Having Cake!
+## Get Out Your Protractor and Ruler, We're Having Cake!
 
 It's time to discuss mathematics, so by convention I wil switch to using "we" (as in, you and I, dear reader). First, we realize that the answer must depend on the angular size of the cake, since if the angle were extremely small, the place to make the cut would be nearly half the length of the slice. 
 
@@ -25,8 +25,22 @@ $$\frac{1}{2} c^2 \tan(\theta) = \frac{1}{4} \theta.$$
 
 Solving for $$c$$, we find $$c=\sqrt{\frac{1}{2} \theta \cot(\theta)}$$ (ignoring the negative solution, since it doesn't make sense in the context of the problem). 
 
-### Some Examples
+## Some Examples
 
-According to our house rules, a slice is legally defined to be one eighth of the whole. Therefore, for a slice of cake, the cut should be made at $$c=\sqrt{\frac{1}{2} \left( \frac{\pi}{4} \right) \cot \left(\frac{\pi}{4} \right)} = \sqrt{ \frac{\pi}{8} } \approx 0.62665706...$$
+### $$\theta = \pi/4$$
+
+According to our house rules, a slice is legally defined to be one eighth of the whole. Therefore, for a slice of cake, the cut should be made at 
+
+$$c=\sqrt{\frac{1}{2} \left( \frac{\pi}{4} \right) \cot \left(\frac{\pi}{4} \right)} = \sqrt{ \frac{\pi}{8} } \approx 0.6266570686.$$
 
 ![Diagram for theta equals pi divided by 4](/images/cake_pi_4.png)
+
+### $$\theta = \pi/6$$
+
+Restaurants are not bound by house rules, so another likely definition of a slice is one twelfth of the whole. In this case, the cut should be made at
+
+$$c=\sqrt{\frac{1}{2} \left( \frac{\pi}{4} \right) \cot \left(\frac{\pi}{4} \right)} = \sqrt{ \frac{\pi}{8} } \approx 0.6733868435.$$
+
+This is a really nice result, since for any realistic application this means the cake should be cut to the 2/3 of its base length, which is easily estimatable.
+
+![Diagram for theta equals pi divided by 4](/images/cake_pi_6.png)
