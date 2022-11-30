@@ -39,7 +39,7 @@ $$c=\sqrt{\frac{1}{2} \left( \frac{\pi}{4} \right) \cot \left(\frac{\pi}{4} \rig
 
 Restaurants are not bound by house rules, so another likely definition of a slice is one twelfth of the whole. In this case, the cut should be made at
 
-$$c=\sqrt{\frac{1}{2} \left( \frac{\pi}{4} \right) \cot \left(\frac{\pi}{4} \right)} = \sqrt{ \frac{\pi}{8} } \approx 0.6733868435.$$
+$$c=\sqrt{\frac{1}{2} \left( \frac{\pi}{6} \right) \cot \left(\frac{\pi}{6} \right)}  \approx 0.6733868435.$$
 
 This is a really nice result, since for any realistic application this means the cake should be cut to the 2/3 of its base length, which is easily estimatable.
 
