@@ -15,13 +15,18 @@ It's time to discuss mathematics, so by convention I wil switch to using "we" (a
 
 So, we will model the slice of cake as a sector of a cylinder of radius one, with angle of $$\theta$$. To simplify things more, we recognize that the volume of the slice is the area of the top of the slice times the height of the cake, so we can just consider a sector of a circle of radius one with angle $$\theta$$ in the "standard position" for a triangle.
 
-Now, we will cut the cake perpindicular to the $$x$$-axis, at some number $$x=c, 0<c<1$$. This creates a right triangle with base $$c$$ and height $$c \tan(\theta)$$, since the tangent of an angle is the ratio of the opposite to the adjacent side of a triangle. The area of the wedge shape is $$A_{wedge} = \frac{1}{2} c^2 \tan(\theta)$$. In order to share fairly, $$A_{\text{wedge}}$$ must be half the the area of the entire slice, $$A_{\text{slice}}1/2 \theta $$. That is
+Now, we will cut the cake perpindicular to the $$x$$-axis, at some number $$x=c, 0<c<1$$. This creates a right triangle with base $$c$$ and height $$c \tan(\theta),$$ since the tangent of an angle is the ratio of the opposite to the adjacent side of a triangle. 
 
-$$\frac{1}{2} c^2 \tan(\theta) = \frac{1}{4} \theta .$$
+![Diagram for theta equals pi divided by 4](/images/cake_general.png)
+
+The area of the wedge shape is $$A_{wedge} = \frac{1}{2} c^2 \tan(\theta).$$ In order to share fairly, $$A_{\text{wedge}}$$ must be half the the area of the entire slice, $$A_{\text{slice}}=\frac{1}{2} \theta.$$ That is
+
+$$\frac{1}{2} c^2 \tan(\theta) = \frac{1}{4} \theta.$$
 
 Solving for $$c$$, we find $$c=\sqrt{\frac{1}{2} \theta \cot(\theta)}$$ (ignoring the negative solution, since it doesn't make sense in the context of the problem). 
 
 ### Some Examples
 
-According to our house rules, a slice is legally defined to be one eighth of the whole. Therefore, for a slice of cake, the cut should be made at $$c=\sqrt{\frac{1}{2} \left\(\frac{\pi}{4} \right\) \cot \left\(\frac{\pi}{4} \right\)} = \sqrt{ \frac{\pi}{8} } \approx 0.62665706...$$
+According to our house rules, a slice is legally defined to be one eighth of the whole. Therefore, for a slice of cake, the cut should be made at $$c=\sqrt{\frac{1}{2} \left( \frac{\pi}{4} \right) \cot \left(\frac{\pi}{4} \right)} = \sqrt{ \frac{\pi}{8} } \approx 0.62665706...$$
 
+![Diagram for theta equals pi divided by 4](/images/cake_pi_4.png)
