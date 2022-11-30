@@ -13,7 +13,7 @@ When my wife and I get takeout from a local Italian restaurant, we like to order
 
 As long as people have had to share limited resources, fair sharing has been a topic of interest. For sharing food, a common technique is the "I cut, you choose" method, where one person makes a cut that they deem fair, and the second person chooses which portion to take. This ensures both parties are happy with the result. 
 
-This particular problem is potentially deceptive, since it is hard to estimate volumes of different shapes. The analysis to follow can at least set a good baseline for an "I cut, you choose" strategy. 
+This particular problem is potentially deceptive, since it is hard to estimate volumes of different shapes. The analysis to follow can at least set a good baseline for an "I cut, you choose" strategy. That said, it does not account for frosting distribution, amongst other factors.
 
 ## Get Out Your Protractor and Ruler, We're Having Cake!
 
