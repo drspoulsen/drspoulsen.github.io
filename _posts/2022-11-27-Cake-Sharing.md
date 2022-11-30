@@ -5,9 +5,9 @@ title: Sharing (is) a Piece of Cake
 
 When my wife and I get takeout from a local Italian restaurant, we like to order one slice of cake to split for desert. The slice of cake is very tall, but very skinny, so it comes in a container laying on its side. The slice is thin enough that we do not want to split the cake by turning it upright and creating two equal slices. Instead, we keep the cake on its side and cut it in a way that creates a wedge as one piece, and the rest of the cake as the other piece. 
 
-![A Slice of Cake](/images/real_cake.jpg)
-
 **Where should the slice be made to result in an even split?**
+
+![A Slice of Cake](/images/real_cake.jpg)
 
 ## Quick Remark 
 
