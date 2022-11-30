@@ -53,6 +53,6 @@ This is a really nice result, since for any realistic application this means the
 
 ## Further thoughts on sharing
 
-Serious mathematics has been inspired by sharing cake. Steinhaus posed to his students the problem of whether there was a strategy like the "I cut, you choose" method for sharing a cake amongst $$n$$ people. These students, Banach and Knaster (yes, the Banach of Banach spaces, Banach-Tarski paradox, Banach fixed-point theorem, etc) solved this problem [^1], which will be the subject of a future post.
+Serious mathematics has been inspired by sharing cake. Steinhaus posed to his students the problem of whether there was a strategy like the "I cut, you choose" method for sharing a cake amongst $$n$$ people. These students, Banach and Knaster (yes, the Banach of Banach spaces, Banach-Tarski paradox, Banach fixed-point theorem, etc) solved this problem [^1], which will be the subject of a future blog post.
 
 [^1]: [Martin L. Jones. "A Note on a Cake Cutting Algorithm of Banach and Knaster," *The American Mathematical Monthly*](https://www.jstor.org/stable/2974584)
