@@ -44,3 +44,13 @@ $$c=\sqrt{\frac{1}{2} \left( \frac{\pi}{4} \right) \cot \left(\frac{\pi}{4} \rig
 This is a really nice result, since for any realistic application this means the cake should be cut to the 2/3 of its base length, which is easily estimatable.
 
 ![Diagram for theta equals pi divided by 4](/images/cake_pi_6.png)
+
+## Further thoughts on sharing
+
+As long as people have had to share limited resources, fair sharing has been a topic of interest. For sharing food, a common technique is the "I cut, you choose" method, where one person makes a cut that they deem fair, and the second person chooses which portion to take. This ensures both parties are happy with the result. 
+
+This particular problem is potentially deceptive, since it is not clear even from the pictures that the volumes are equal. This analysis can at least set a good baseline for an "I cut, you choose" strategy. 
+
+Finally, serious mathematics has been inspired by sharing cake. Steinhaus posed to his students the problem of whether there was a strategy like the "I cut, you choose" method for sharing a cake amongst $n$ people. These students, Banach and Knaster (yes, the Banach of Banach spaces, Banach-Tarski paradox, Banach spaces, etc) solved this problem [^1], which will be the subject of a future post.
+
+[^1]: [Martin L. Jones. "A Note on a Cake Cutting Algorithm of Banach and Knaster," **The American Mathematical Monthly##](https://www.jstor.org/stable/2974584)
