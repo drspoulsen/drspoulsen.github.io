@@ -55,7 +55,7 @@ The probability of failing the hunt (getting zero shinies) has decreased from ne
 
 ### Side Note About the 1/512.44 Probability
 
-The way the boosts in shiny rate work is that instead of doing one Bernoulli trial with $p=1/4096$ to determine shinyness, the game does more than one Bernoulli trial to determine shinyness (with the number of trials determined by the boost). If any of these trials are successful, then the Pokemon is shiny. A shiny charm changes the number of Bernoulli trials to three, while the 1/512.44 rate comes from the number changing to eight trials. Why? Let's work it out!
+The way the boosts in shiny rate work is that instead of doing one Bernoulli trial with $$p=1/4096$$ to determine shinyness, the game does more than one Bernoulli trial to determine shinyness (with the number of trials determined by the boost). If any of these trials are successful, then the Pokemon is shiny. A shiny charm changes the number of Bernoulli trials to three, while the 1/512.44 rate comes from the number changing to eight trials. Why? Let's work it out!
 
 Let's look at the binomial distribution with $$p=1/4096$$ as before, but with $$8$$ trials instead of $$1000$$.  
 
@@ -124,6 +124,6 @@ Even the silly and recreational things in life can lead to interesting and deep 
 
 [^1]: [Bulbapedia Shiny Pokemon Page](https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon)
 
-[^2] $$.63 \approx 1-\frac{1}{e}$$, where $e$ is Euler's constant $$e \approx 2.71828...$$ The fact that this shows up here is not a coincidence.
+[^2]: [$$.63 \approx 1-\frac{1}{e}$$, where $e$ is Euler's constant $$e \approx 2.71828...$$ The fact that this shows up here is not a coincidence.]
 
-[^3] [The Poisson process and Associated Probability Distributions on Time Scales](https://ieeexplore.ieee.org/document/5753775)
+[^3]: [The Poisson process and Associated Probability Distributions on Time Scales](https://ieeexplore.ieee.org/document/5753775)
