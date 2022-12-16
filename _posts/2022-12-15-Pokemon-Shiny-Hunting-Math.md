@@ -73,7 +73,7 @@ The geometric distribution gives the probability of number of Bernoulli trials u
 
 ![The Geometric Distribution for p equals 1 divided by 4096](/images/Geometric_4096.jpeg)
 
-First, notice how the $$x$$-axis is now "Number of Shiny Checks." Also, The probability axis has very small numbers. This is because the probability (which adds to one) is spread out over many, many possibilities. In this context, it doesn't make much sense to talk about the probability of it taking exactly, say, 4000 checks to get a shiny. Instead, it is more informative to to look at the probability that it take **less than**, say, 4000 checks to get the shiny. This idea is called the *cumulative distribution function.* For a geometric distribution with $p=1/4096$, the cumulative distribution function has the graph plotted below.
+First, notice how the $$x$$-axis is now "Number of Shiny Checks." Also, The probability axis has very small numbers. This is because the probability (which adds to one) is spread out over many, many possibilities. In this context, it doesn't make much sense to talk about the probability of it taking exactly, say, 4000 checks to get a shiny. Instead, it is more informative to to look at the probability that it take **less than**, say, 4000 checks to get the shiny. This idea is called the *cumulative distribution function.* For a geometric distribution with $$p=1/4096$$, the cumulative distribution function has the graph plotted below.
 
 ![The Geometric Distribution for p equals 1 divided by 4096](/images/Geometric_CDF_4096.jpeg)
 
@@ -124,6 +124,6 @@ Even the silly and recreational things in life can lead to interesting and deep 
 
 [^1]: [Bulbapedia Shiny Pokemon Page](https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon)
 
-[^2]: [$$.63 \approx 1-\frac{1}{e}$$, where $e$ is Euler's constant $$e \approx 2.71828...$$ The fact that this shows up here is not a coincidence.]
+[^2]: [$$.63 \approx 1-\frac{1}{e}$$, where $$e$$ is Euler's constant $$e \approx 2.71828...$$ The fact that this shows up here is not a coincidence.]
 
 [^3]: [The Poisson process and Associated Probability Distributions on Time Scales](https://ieeexplore.ieee.org/document/5753775)
