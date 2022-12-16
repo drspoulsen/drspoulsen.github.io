@@ -27,7 +27,7 @@ When calculating the probability that two **independent** things happen, one sim
 
 A Bernoulli trial is a fancy way of saying "flipping a weighted coin." Technically, a Bernoulli trial is an experiment where "success" occurs with probability $$p$$, and "failure" occurs with probability $$1-p$$. There are no other options (here failure is an option).
 
-Let's recast this definition in terms of Pokemon. Checking whether one Pokemon is shiny (hereafter known as a *shiny check*) is a Bernoulli trial where "success" means the Pokemon is shiny, and "failure" means the Pokemon is not shiny. The value for $p$ is $1/4096$ (without any boosts). 
+Let's recast this definition in terms of Pokemon. Checking whether one Pokemon is shiny (hereafter known as a *shiny check*) is a Bernoulli trial where "success" means the Pokemon is shiny, and "failure" means the Pokemon is not shiny. The value for $$p$$ is $$1/4096$$ (without any boosts). 
 
 ## Binomial Distribution
 
