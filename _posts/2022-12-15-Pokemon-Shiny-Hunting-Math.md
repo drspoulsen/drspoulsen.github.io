@@ -99,7 +99,7 @@ We can compare this to a Binomial distribution with $$p=1/512.44$$ over 900 shin
 
 ![The Binomial Distribution with p equal to 1 divided by 512.44 and 900 shiny checks](/images/Binomial_512_900.jpeg)
 
-They look very similar, and this is hopefully not a surprise (they are modeling the same thing, after all)! The real power is that we have shifted our thinking from discrete events that exist outside of time thinking of these checks as existing in time. 
+They look very similar, and this is hopefully not a surprise (they are modeling the same thing, after all)! This is a wonderful illustration of the *Poisson Paradigm*, which states that the Poisson Distribution and the Binomial Distribution are very similar when the probability of success is small and the number of trials is large. One advantage in using the Poisson distribution is that the probabilities are easier to calculate. Another advantage is that we have shifted our thinking from discrete events that exist outside of time thinking of these checks as existing in time.
 
 ## The Exponential Distribution
 
