@@ -22,7 +22,7 @@ Shiny Pokemon hunting is a wonderful lens through which to understand some of th
 
 ## Independence
 
-In Pokemon Scarlet and Violet,the probability that an individual Pokemon will be shiny is 1/4096. With certain methods in the game, this probability can be increased up to 1/512. Whether a given Pokemon is shiny or not does not depend on whether another Pokemon is shiny or not. In probability, we say that shinyness is *independent* of Pokemon. 
+In Pokemon Scarlet and Violet,the probability that an individual Pokemon will be shiny is 1/4096. With certain methods in the game, this probability can be increased up to 1/512. Whether a given Pokemon is shiny or not does not depend on whether another Pokemon is shiny or not. In probability, we say that shininess is *independent* of Pokemon. 
 
 When calculating the probability that two **independent** things happen, one simply multiplies the probability that the first thing happens by the probability that the second thing happpens. For example, the probability of 1) flipping a fair coin and getting a head **and** 2) rolling a five on a fair six-sided dice is $$ (1/2) (1/6) = 1/12 $$. 
 
@@ -55,7 +55,7 @@ The probability of failing the hunt (getting zero shinies) has decreased from ne
 
 ### Side Note About the 1/512.44 Probability
 
-The way the boosts in shiny rate work is that instead of doing one Bernoulli trial with $$p=1/4096$$ to determine shinyness, the game does more than one Bernoulli trial to determine shinyness (with the number of trials determined by the boost). If any of these trials are successful, then the Pokemon is shiny. A shiny charm changes the number of Bernoulli trials to three, while the 1/512.44 rate comes from the number changing to eight trials. Why? Let's work it out!
+The way the boosts in shiny rate work is that instead of doing one Bernoulli trial with $$p=1/4096$$ to determine shininess, the game does more than one Bernoulli trial to determine shininess (with the number of trials determined by the boost). If any of these trials are successful, then the Pokemon is shiny. A shiny charm changes the number of Bernoulli trials to three, while the 1/512.44 rate comes from the number changing to eight trials. Why? Let's work it out!
 
 Let's look at the binomial distribution with $$p=1/4096$$ as before, but with $$8$$ trials instead of $$1000$$.  
 
@@ -83,7 +83,7 @@ Some features I notice really quickly:
 
 2) It takes about 2838 checks in order for there to be a 50% chance of getting a shiny. I think most people would guess 2048 checks.
 
-Some other features are less apparent. One of my favorite facts is that if someone has already checked some shinies, the cumulative distribution function for how many **more** checks until they encounter a shiny has exactly the graph above. This is called the *memoryless property.* This should feel both obvious and strange. I like to think about coin flipping. If I flip five heads in a row, but I know the coin is fair, the probability that the next coin is heads has not changed from $$1/2$$. The past results have no impact on the future in this regard. So, if someone has already checked 10,000 Pokemon for shinyness and has come up empty-handed, the probability that they'll find a shiny in the next 4096 checks is still only 63%. There's no credit earned from the universe from those first 10,000 checks.
+Some other features are less apparent. One of my favorite facts is that if someone has already checked some shinies, the cumulative distribution function for how many **more** checks until they encounter a shiny has exactly the graph above. This is called the *memoryless property.* This should feel both obvious and strange. I like to think about coin flipping. If I flip five heads in a row, but I know the coin is fair, the probability that the next coin is heads has not changed from $$1/2$$. The past results have no impact on the future in this regard. So, if someone has already checked 10,000 Pokemon for shininess and has come up empty-handed, the probability that they'll find a shiny in the next 4096 checks is still only 63%. There's no credit earned from the universe from those first 10,000 checks.
 
 ## The Poisson Distribution
 
