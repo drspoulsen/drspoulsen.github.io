@@ -1,6 +1,9 @@
 ---
 layout: post
 title: The Math of Shiny Hunting in Pokemon
+host: mathstodon.xyz
+username: dpoulsen
+com_id: 109594626316444381
 ---
 
 When I am not teaching or writing about mathematics, one of my hobbies is playing Pokemon games. In particular, I have been playing Pokemon Go for the past six years, and have recently started playing Pokemon Scarlet and Violet. 
