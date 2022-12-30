@@ -17,4 +17,8 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+  {% if page.host %}
+  <a href="https://{{ page.host }}/interact/{{ page.com_id }}?=type=reply">Reply via Mastodon</a>
+  {% endif %}
+
 </article>
