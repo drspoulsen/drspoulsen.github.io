@@ -1,4 +1,4 @@
-unction createCommentEl(response){
+function createCommentEl(response){
     let user = document.createElement('div');
     user.classList.add('mastodon-comment');
     let userAvatar = document.createElement('img');
