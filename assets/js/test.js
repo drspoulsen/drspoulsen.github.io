@@ -1,3 +1,19 @@
+document.getElementById('load-comment').addEventListener("click", async () => {
+    document.getElementById('load-comment').remove();
+    const response = await fetch('https://mathstodon.xyz/api/v1/statuses/109351117697201883/context');
+    const data = await response.json();
+    if (data.descendants && data.descendants.length > 0) {
+        document.getElementById('comments-list').innerHTML += "<h3>Mastodon Comments</h3>";
+        let descendants = data.descendants;
+        for (let i = 0; i < descendants.length; i++) {
+            document.getElementById('comments-list').appendChild(DOMPurify.sanitize(createCommentEl(descendants[i]), {'RETURN_DOM_FRAGMENT': true}));
+        }
+    }
+    else {
+        document.getElementById('comments-list').innerHTML += "<p>⚠️ No Mastodon comments yet ⚠️</p>";
+    }
+});
+
 function createCommentEl(response){
     let user = document.createElement('div');
     user.classList.add('mastodon-comment');
