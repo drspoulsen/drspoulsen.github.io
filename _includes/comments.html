@@ -1,3 +1,4 @@
+{{ with .Params.comments }}
 <div class="article-content">
     <h2>Comments</h2>
     <p>You can use your Mastodon account to reply to this <a class="link" href="https://{{ page.host }}/@{{ page.username }}/{{ page.com_id }}">post</a>.</p>
@@ -59,3 +60,4 @@
         });
     </script>
   </div>
+  {{ end }}
