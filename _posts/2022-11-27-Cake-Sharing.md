@@ -36,7 +36,7 @@ Solving for $$c$$, we find $$c=\sqrt{\frac{1}{2} \theta \cot(\theta)}$$ (ignorin
 
 ## Some Examples
 
-### $$\theta = \pi/4$$
+1. $$\theta = \pi/4$$
 
 According to our house rules, a slice is legally defined to be one eighth of the whole. Therefore, for a slice of cake, the cut should be made at 
 
@@ -44,7 +44,7 @@ $$c=\sqrt{\frac{1}{2} \left( \frac{\pi}{4} \right) \cot \left(\frac{\pi}{4} \rig
 
 ![Diagram for theta equals pi divided by 4](/images/cake_pi_4.png)
 
-### $$\theta = \pi/6$$
+2. $$\theta = \pi/6$$
 
 Restaurants are not bound by house rules, so another likely definition of a slice is one twelfth of the whole. In this case, the cut should be made at
 
