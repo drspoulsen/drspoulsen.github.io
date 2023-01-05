@@ -94,10 +94,7 @@ a {
 
 .navigation {
   text-decoration: none;
-  padding-top: 21px;
-  padding-bottom: 23px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding:14px 16px;
   background-color: $blue;
   color: $white;
   cursor: pointer;
@@ -246,34 +243,20 @@ img {
   }
 }
 
-nav {
+.topnav {
   text-align: right;
-  float: right;
   font-family: $helveticaNeue;
   font-size: 19px;
   width: 100%;
-  background-color: $blue;
-  min-height: 50px;
   overflow: hidden;
-  margin-top: 20px;
+  background-color: $blue;
+  margin-top:20px;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
     font-size: 16px;
-  }
-
-  a {
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
-
-    @include mobile {
-      margin: 0 10px;
-      color: $darkGray;
-    }
   }
 }
 
