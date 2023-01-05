@@ -94,8 +94,8 @@ a {
 
 .navigation {
   text-decoration: none;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 22px;
+  padding-bottom: 22px;
   padding-left: 20px;
   padding-right: 20px;
   background-color: $blue;
@@ -249,7 +249,7 @@ img {
 nav {
   text-align: right;
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 20px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 19px;
   width: 100%;
@@ -265,7 +265,6 @@ nav {
   }
 
   a {
-    margin-left: 20px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
