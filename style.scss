@@ -92,7 +92,8 @@ a {
   }
 }
 
-.navigation {
+.topnav a {
+  display: block;
   text-decoration: none;
   padding:14px 16px;
   background-color: $blue;
@@ -102,6 +103,16 @@ a {
     background-color: $white;
     color: $blue;
   }
+}
+
+.topnav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.topnav li{
+    float:right;
 }
 
 ul, ol {
