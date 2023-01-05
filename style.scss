@@ -255,6 +255,7 @@ nav {
   background-color: $blue;
   min-height: 30px;
   overflow: hidden;
+  margin-top: 20px;
 
   @include mobile {
     float: none;
