@@ -210,11 +210,14 @@ img {
   text-align: center;
   color: $darkGray;
   cursor: pointer;
-  text-decoration: none;
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 32px;
   letter-spacing: 1px;
+}
+
+.site-name-link {
+  text-decoration: none;
 }
 
 .site-description {
