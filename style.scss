@@ -207,18 +207,20 @@ img {
 
 .site-name {
   margin: 0;
+  text-align: center;
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 32px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: $blue;
-  font-size: 16px;
+  text-align: center;
+  font-size: 20px;
 
   @include mobile {
     margin: 3px 0;
