@@ -240,6 +240,10 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 19px;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: $blue;
 
   @include mobile {
     float: none;
