@@ -253,6 +253,8 @@ nav {
   font-size: 19px;
   width: 100%;
   background-color: $blue;
+  min-height: 30px;
+  overflow: hidden;
 
   @include mobile {
     float: none;
