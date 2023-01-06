@@ -109,11 +109,12 @@ a {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  padding-left: 0;
   background-color: $blue;
 }
 
 .topnav li{
-    display: inline;
+    display: float;
 }
 
 ul, ol {
@@ -256,7 +257,6 @@ img {
 }
 
 .topnav {
-  text-align: right;
   font-family: $helveticaNeue;
   font-size: 19px;
   overflow: hidden;
