@@ -93,8 +93,8 @@ a {
 }
 
 .topnav a {
-  display: inline-block;
-  vertical-align: top;
+  display: float;
+  float: right;
   text-decoration: none;
   padding:14px 16px;
   background-color: $blue;
