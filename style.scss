@@ -109,6 +109,7 @@ a {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  background-color: $blue;
 }
 
 .topnav li{
@@ -258,7 +259,6 @@ img {
   text-align: right;
   font-family: $helveticaNeue;
   font-size: 19px;
-  width: 100%;
   overflow: hidden;
   background-color: $blue;
   margin-top:20px;
