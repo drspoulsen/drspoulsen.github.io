@@ -87,19 +87,19 @@ B.S., Mathematics, May 2010
 
 `Jan 2022` Christopher Newport University Department of Mathematics Colloquium
 
-"Finding Mathematical Joy Cutting Onions."
+* "Finding Mathematical Joy Cutting Onions."
 
 `June 2018` University of Valenciennes Séminaire ROC du Département Auto. 
   
-"Stability of Linear Systems Subject to Stochastic Timing."
+* "Stability of Linear Systems Subject to Stochastic Timing."
 
 `Mar 2018` United States Naval Academy Applied Mathematics Seminar
   
-"Engineering in an Imperfect World."
+* "Engineering in an Imperfect World."
 
 `Sept 2016` Christopher Newport University Department of Mathematics Colloquium
   
-"Engineering in an Imperfect World."
+* "Engineering in an Imperfect World."
 
 ### Conference Speaker
 
@@ -215,33 +215,9 @@ Time Scales."
 ### Senior Capstone Projects Mentored
 
 `2019-2020` Nicole Albrecht "An Introduction To Compartmental Models Of Infectious Disease"
+
 `2019-2020` Patrick Berry "Quantum Computing"
+
 `2019` Gauge Burnett "Fantastic Knots and How to Tie Them"
+
 `2018-2019` Simon Checknoff  "Using Lie Symmetries to Solve Differential Equations"
-  Molly Flowers { \An Experimental Study of Time-Reversal 2018-2019
-Acoustics"
-  Kevin McCormick { \Optimal Control Theory: Dynamic 2018-2019
-Programming of Solar Panel Consumption "
-  Sheng Mi { \Brownian Motion and Stock Prices" 2018-2019
-  Yilin Yang { \The Application of Mathematics in the Game 2017-2018
-`Lights Out"'
-  Alexandra Young { \Female Labor Force Participation Rate 2017-2018
-E ects on Births"
-  Courtney Rainey { \ Exploding Dots and Division Rules" 2017-2018
-  Dimitri Kaliakin { \Assessment of Kellers Mathematical Model 2016-2017
-for Optimal Velocity in a Footrace"
-  Ricardo Wu { \Model of Business Risk Management " 2016-2017
-  Bryten Ives { \Theory and Actuarial Applications of Stochastic 2015-2016
-Processes."
-  Maisie Newman { \E ciently Modeling the Control of West Nile 2015-2016
-Virus."
-  Laurel Jones { \Exploring Mathematical Models of the Bacterium 2015-2016
-Clostridium di cile."
-
-
-
-
-
-
-
-
