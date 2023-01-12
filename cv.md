@@ -30,7 +30,7 @@ B.S., Mathematics, May 2010
 * Summa Cum Laude
 * Phi Beta Kappa
 
-## Employment
+## Academic Employment
 
 `2021-` 
 **Washington College** Associate Professor of Mathematics
@@ -105,99 +105,138 @@ B.S., Mathematics, May 2010
 
 `July 2020` IFAC World Congress, Berlin, Germany (Virtual)
   
-"Observer-Based Output Feedback Consensus Protocol for Double-Integrator Multi-Agent Systems Under Intermittent Sampled Position Measurements."
+* "Observer-Based Output Feedback Consensus Protocol for Double-Integrator Multi-Agent Systems Under Intermittent Sampled Position Measurements."
 
 `Jan 2019` Joint Mathematics Meetings, Baltimore, MD
   
-"Consensus of Multi-Agent Systems: A Time Scales Approach."
+* "Consensus of Multi-Agent Systems: A Time Scales Approach."
 
 `July 2017` IFAC World Congress, Toulouse, France July 2017
  
- "Opitmal Control on Stochastic Time Scales."
+ * "Opitmal Control on Stochastic Time Scales."
 
 `Jan 2016` Joint Mathematics Meetings, Seattle, WA 
   
-"Can an Unstable Control System Be Stabilized By Timing Noise?"
+* "Can an Unstable Control System Be Stabilized By Timing Noise?"
 
 `Nov 2015` MAA MD-DC-VA Sectional Meeting, Saint Marys City, MD
   
-"Can an Unstable Control System Be Stabilized By Timing Noise?"
+* "Can an Unstable Control System Be Stabilized By Timing Noise?"
 
 `Oct 2015` ASME 2015 Dynamic Systems and Control Conference, Columbus, OH
 
-"Numeric and Analytic Investigations of Mean-Square Exponential Stability for Stochastically Timed Systems."
+* "Numeric and Analytic Investigations of Mean-Square Exponential Stability for Stochastically Timed Systems."
 
 `Jan 2015` Joint Mathematics Meetings, San Antonio, TX
  
-"The Geometry of the Region of Uniform Exponential Stability on an Arbitrary Time Scale."
+* "The Geometry of the Region of Uniform Exponential Stability on an Arbitrary Time Scale."
 
 `Oct 2014` ASME 2014 Dynamic Systems and Control Conference, San Antonio, TX
 
-"Is Deterministic Real Time Control Always Necessary? A Time Scales Perspective."
+* "Is Deterministic Real Time Control Always Necessary? A Time Scales Perspective."
 
 `Jan 2014` Joint Mathematics Meetings, Baltimore, MD
-  
-"Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
+
+* "Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
 
 `Oct 2013` Central Section Fall Meeting of the AMS, St. Louis, MO
 
-"Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
+* "Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
 
 `Mar 2013` Southeastern Symposium on Systems Theory, Waco, TX
 
-"Stochastic Time Scales: Quadratic Lyapunov Functions and Probabilistic Regions of Stability."
+* "Stochastic Time Scales: Quadratic Lyapunov Functions and Probabilistic Regions of Stability."
 
-"Observer Based Feedback Controllers on Stochastic Time Scales."
+* "Observer Based Feedback Controllers on Stochastic Time Scales."
 
 `Mar 2012` Southeastern Symposium on Systems Theory, Jacksonville, FL
 
-"On the Stability of Mu-Varying Dynamic Equations on Stochastically Generated Time Scales."
+* "On the Stability of Mu-Varying Dynamic Equations on Stochastically Generated Time Scales."
 
-"Time Scale-Based Observer Design for Battery State-of-Charge Estimation."
+* "Time Scale-Based Observer Design for Battery State-of-Charge Estimation."
 
 `Mar 2011` Southeastern Symposium on Systems Theory, Auburn, AL
 
-"The Poisson Process and Associated Probability Distributions on
+* "The Poisson Process and Associated Probability Distributions on
 Time Scales."
 
 `Oct 2009` Central Section Fall Meeting of the AMS, Waco, TX
 
-"Coupled Conditions for Asymptotic Equivalence on Time Scales."
+* "Coupled Conditions for Asymptotic Equivalence on Time Scales."
 
 `Oct 2009` INFORMS Annual National Meeting, San Diego, CA
 
-"The Optimal Tilt Angle of Solar Panels."
+* "The Optimal Tilt Angle of Solar Panels."
 
 `Aug 2009` MAA MathFest, Portland, OR
 
-"The Optimal Tilt Angle of Solar Panels."
+* "The Optimal Tilt Angle of Solar Panels."
 
 `June 2009` Rocky Mountain Mathematics Consortium, Laramie, WY
 
-"Coupled Conditions for Asymptotic Equivalence on Time Scales."
+* "Coupled Conditions for Asymptotic Equivalence on Time Scales."
 
 `Apr 2009` MAA Paciffic Northwest Sectional Meeting, Ellensburg, WA
 
-"The Asymptotic Behavior of Dynamic Equations on Time Scales."
+* "The Asymptotic Behavior of Dynamic Equations on Time Scales."
+
+### Conference Poster Presentations
+
+`Mar 2019` American Association for Cancer Research Annual Meeting 2019
+  
+* "Rapid Fluorescence Based Assessment of RNA Integrity Quality Using Machine Learning." Presented by Scott Clarke.
 
 ## Teaching Experience
 
 `2015 - ` Department of Mathematics and Computer Science, Washington College
 
-Courses Designed and Managed
+### Courses Designed and Managed
 
 `Two Sections` MAT 109 - Statistics
+
 `Ten Sections` MAT 111 - Differential Calculus
+
 `Twelve Sections` MAT 112 - Integral Calculus
+
 `One Section` MAT 199 - History of Mathematics
+
 `Two Sections` MAT 210 - Multivariable Calculus
+
 `Seven Sections`  MAT 280 - Linear Algebra
+
 `Four Sections`  MAT 310 - Differential Equations
+
 `Two Sections`  MAT 320 - Probability Theory
+
 `One Section` MAT 392 and 492 - Junior and Senior Math Seminar
+
 `Three Sections`  MAT 470 - Real Analysis
 
+### Senior Capstone Projects Mentored
 
+`2019-2020` Nicole Albrecht "An Introduction To Compartmental Models Of Infectious Disease"
+`2019-2020` Patrick Berry "Quantum Computing"
+`2019` Gauge Burnett "Fantastic Knots and How to Tie Them"
+`2018-2019` Simon Checknoff  "Using Lie Symmetries to Solve Differential Equations"
+  Molly Flowers { \An Experimental Study of Time-Reversal 2018-2019
+Acoustics"
+  Kevin McCormick { \Optimal Control Theory: Dynamic 2018-2019
+Programming of Solar Panel Consumption "
+  Sheng Mi { \Brownian Motion and Stock Prices" 2018-2019
+  Yilin Yang { \The Application of Mathematics in the Game 2017-2018
+`Lights Out"'
+  Alexandra Young { \Female Labor Force Participation Rate 2017-2018
+E ects on Births"
+  Courtney Rainey { \ Exploding Dots and Division Rules" 2017-2018
+  Dimitri Kaliakin { \Assessment of Kellers Mathematical Model 2016-2017
+for Optimal Velocity in a Footrace"
+  Ricardo Wu { \Model of Business Risk Management " 2016-2017
+  Bryten Ives { \Theory and Actuarial Applications of Stochastic 2015-2016
+Processes."
+  Maisie Newman { \E ciently Modeling the Control of West Nile 2015-2016
+Virus."
+  Laurel Jones { \Exploring Mathematical Models of the Bacterium 2015-2016
+Clostridium di cile."
 
 
 
