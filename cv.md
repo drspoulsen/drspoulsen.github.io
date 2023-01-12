@@ -180,16 +180,6 @@ Time Scales."
 * `Fall 2015` Pi Mu Epsilon, Iota of Maryland. Charter faculty member.
 * `Spring 2010` Phi Beta Kappa, Delta of Washington.
 
-## Service to Washington College
-
-* `Fall 2021 - Present` Chair, Department of Mathematics and Computer Science.
-* `Fall 2021 - Present` Member, Tenure and Promotion Committee.
-* `Fall 2019 - Fall 2021` Member, Assessment Committee.
-* `Fall 2017 - Fall 2019` Faculty Advisor to the Student Government Association.
-* `Fall 2017 - Fall 2019` Chair, Student Life Committee.
-* `Fall 2016 - Spring 2018` Member, Cromwell CTL Advisory Board
-* `2015, 2017, 2018, 2021` Member, Search Committee for the Department of Mathematics and Computer Science.
- 
 ## Service to the Profession 
 
 ### Chairing Sessions
@@ -204,3 +194,13 @@ Time Scales."
 * *Journal of the Franklin Institute* Two Reviews. Recognized Reviewer Status.
 * *IFAC World Congress 2020* Two Reviews.
 * *Advances in Difference Equations* One Review.
+
+## Service to Washington College
+
+* `Fall 2021 - Present` Chair, Department of Mathematics and Computer Science.
+* `Fall 2021 - Present` Member, Tenure and Promotion Committee.
+* `Fall 2019 - Fall 2021` Member, Assessment Committee.
+* `Fall 2017 - Fall 2019` Faculty Advisor to the Student Government Association.
+* `Fall 2017 - Fall 2019` Chair, Student Life Committee.
+* `Fall 2016 - Spring 2018` Member, Cromwell CTL Advisory Board.
+* `2015, 2017, 2018, 2021` Member, Search Committee for the Department of Mathematics and Computer Science.
