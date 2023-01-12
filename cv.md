@@ -30,14 +30,6 @@ B.S., Mathematics, May 2010
 * Summa Cum Laude
 * Phi Beta Kappa
 
-## Academic Employment
-
-`2021-` 
-**Washington College** Associate Professor of Mathematics
-
-`2015-21` 
-**Washington College** Assistant Professor of Mathematics
-
 ## Publications
 
 ### Journal articles
@@ -85,139 +77,177 @@ B.S., Mathematics, May 2010
 
 ### Invited Colloquim Speaker
 
-* `Jan 2022` Christopher Newport University Department of Mathematics Colloquium
+* `Jan 2022` Christopher Newport University Department of Mathematics Colloquium. "Finding Mathematical Joy Cutting Onions."
 
-"Finding Mathematical Joy Cutting Onions."
+* `June 2018` University of Valenciennes Séminaire ROC du Département Auto. "Stability of Linear Systems Subject to Stochastic Timing."
 
-* `June 2018` University of Valenciennes Séminaire ROC du Département Auto. 
-  
-"Stability of Linear Systems Subject to Stochastic Timing."
+* `Mar 2018` United States Naval Academy Applied Mathematics Seminar. "Engineering in an Imperfect World."
 
-* `Mar 2018` United States Naval Academy Applied Mathematics Seminar
-  
-"Engineering in an Imperfect World."
-
-`Sept 2016` Christopher Newport University Department of Mathematics Colloquium
-  
-* "Engineering in an Imperfect World."
+* `Sept 2016` Christopher Newport University Department of Mathematics Colloquium. "Engineering in an Imperfect World."
 
 ### Conference Speaker
 
-`July 2020` IFAC World Congress, Berlin, Germany (Virtual)
-  
-* "Observer-Based Output Feedback Consensus Protocol for Double-Integrator Multi-Agent Systems Under Intermittent Sampled Position Measurements."
+* `July 2020` IFAC World Congress, Berlin, Germany (Virtual). "Observer-Based Output Feedback Consensus Protocol for Double-Integrator Multi-Agent Systems Under Intermittent Sampled Position Measurements."
 
-`Jan 2019` Joint Mathematics Meetings, Baltimore, MD
-  
-* "Consensus of Multi-Agent Systems: A Time Scales Approach."
+* `Jan 2019` Joint Mathematics Meetings, Baltimore, MD. "Consensus of Multi-Agent Systems: A Time Scales Approach."
 
-`July 2017` IFAC World Congress, Toulouse, France July 2017
- 
- * "Opitmal Control on Stochastic Time Scales."
+* `July 2017` IFAC World Congress, Toulouse, France July 2017. "Opitmal Control on Stochastic Time Scales."
 
-`Jan 2016` Joint Mathematics Meetings, Seattle, WA 
-  
-* "Can an Unstable Control System Be Stabilized By Timing Noise?"
+* `Jan 2016` Joint Mathematics Meetings, Seattle, WA. "Can an Unstable Control System Be Stabilized By Timing Noise?"
 
-`Nov 2015` MAA MD-DC-VA Sectional Meeting, Saint Marys City, MD
-  
-* "Can an Unstable Control System Be Stabilized By Timing Noise?"
+* `Nov 2015` MAA MD-DC-VA Sectional Meeting, Saint Marys City, MD. "Can an Unstable Control System Be Stabilized By Timing Noise?"
 
-`Oct 2015` ASME 2015 Dynamic Systems and Control Conference, Columbus, OH
+* `Oct 2015` ASME 2015 Dynamic Systems and Control Conference, Columbus, OH. "Numeric and Analytic Investigations of Mean-Square Exponential Stability for Stochastically Timed Systems."
 
-* "Numeric and Analytic Investigations of Mean-Square Exponential Stability for Stochastically Timed Systems."
+* `Jan 2015` Joint Mathematics Meetings, San Antonio, TX. "The Geometry of the Region of Uniform Exponential Stability on an Arbitrary Time Scale."
 
-`Jan 2015` Joint Mathematics Meetings, San Antonio, TX
- 
-* "The Geometry of the Region of Uniform Exponential Stability on an Arbitrary Time Scale."
+* `Oct 2014` ASME 2014 Dynamic Systems and Control Conference, San Antonio, TX. "Is Deterministic Real Time Control Always Necessary? A Time Scales Perspective."
 
-`Oct 2014` ASME 2014 Dynamic Systems and Control Conference, San Antonio, TX
+* `Jan 2014` Joint Mathematics Meetings, Baltimore, MD. "Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
 
-* "Is Deterministic Real Time Control Always Necessary? A Time Scales Perspective."
+* `Oct 2013` Central Section Fall Meeting of the AMS, St. Louis, MO. "Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
 
-`Jan 2014` Joint Mathematics Meetings, Baltimore, MD
+* `Mar 2013` Southeastern Symposium on Systems Theory, Waco, TX. 
 
-* "Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
+1. "Stochastic Time Scales: Quadratic Lyapunov Functions and Probabilistic Regions of Stability."
 
-`Oct 2013` Central Section Fall Meeting of the AMS, St. Louis, MO
+2. "Observer Based Feedback Controllers on Stochastic Time Scales."
 
-* "Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
+* `Mar 2012` Southeastern Symposium on Systems Theory, Jacksonville, FL.
 
-`Mar 2013` Southeastern Symposium on Systems Theory, Waco, TX
+1. "On the Stability of Mu-Varying Dynamic Equations on Stochastically Generated Time Scales."
 
-* "Stochastic Time Scales: Quadratic Lyapunov Functions and Probabilistic Regions of Stability."
+2. "Time Scale-Based Observer Design for Battery State-of-Charge Estimation."
 
-* "Observer Based Feedback Controllers on Stochastic Time Scales."
-
-`Mar 2012` Southeastern Symposium on Systems Theory, Jacksonville, FL
-
-* "On the Stability of Mu-Varying Dynamic Equations on Stochastically Generated Time Scales."
-
-* "Time Scale-Based Observer Design for Battery State-of-Charge Estimation."
-
-`Mar 2011` Southeastern Symposium on Systems Theory, Auburn, AL
-
-* "The Poisson Process and Associated Probability Distributions on
+* `Mar 2011` Southeastern Symposium on Systems Theory, Auburn, AL. "The Poisson Process and Associated Probability Distributions on
 Time Scales."
 
-`Oct 2009` Central Section Fall Meeting of the AMS, Waco, TX
+* `Oct 2009` Central Section Fall Meeting of the AMS, Waco, TX. "Coupled Conditions for Asymptotic Equivalence on Time Scales."
 
-* "Coupled Conditions for Asymptotic Equivalence on Time Scales."
+* `Oct 2009` INFORMS Annual National Meeting, San Diego, CA. "The Optimal Tilt Angle of Solar Panels."
 
-`Oct 2009` INFORMS Annual National Meeting, San Diego, CA
+* `Aug 2009` MAA MathFest, Portland, OR. "The Optimal Tilt Angle of Solar Panels."
 
-* "The Optimal Tilt Angle of Solar Panels."
+* `June 2009` Rocky Mountain Mathematics Consortium, Laramie, WY. "Coupled Conditions for Asymptotic Equivalence on Time Scales."
 
-`Aug 2009` MAA MathFest, Portland, OR
-
-* "The Optimal Tilt Angle of Solar Panels."
-
-`June 2009` Rocky Mountain Mathematics Consortium, Laramie, WY
-
-* "Coupled Conditions for Asymptotic Equivalence on Time Scales."
-
-`Apr 2009` MAA Paciffic Northwest Sectional Meeting, Ellensburg, WA
-
-* "The Asymptotic Behavior of Dynamic Equations on Time Scales."
+* `Apr 2009` MAA Paciffic Northwest Sectional Meeting, Ellensburg, WA. "The Asymptotic Behavior of Dynamic Equations on Time Scales."
 
 ### Conference Poster Presentations
 
-`Mar 2019` American Association for Cancer Research Annual Meeting 2019
-  
-* "Rapid Fluorescence Based Assessment of RNA Integrity Quality Using Machine Learning." Presented by Scott Clarke.
+* `Mar 2019` American Association for Cancer Research Annual Meeting 2019. "Rapid Fluorescence Based Assessment of RNA Integrity Quality Using Machine Learning." Presented by Scott Clarke.
 
 ## Teaching Experience
 
-`2015 - ` Department of Mathematics and Computer Science, Washington College
+`2021-` 
+**Washington College** Associate Professor of Mathematics
 
-### Courses Designed and Managed
+`2015-21` 
+**Washington College** Assistant Professor of Mathematics
 
-`Two Sections` MAT 109 - Statistics
+### Courses Designed and Managed at Washington College
 
-`Ten Sections` MAT 111 - Differential Calculus
+* `Two Sections` MAT 109 - Statistics
 
-`Twelve Sections` MAT 112 - Integral Calculus
+* `Ten Sections` MAT 111 - Differential Calculus
 
-`One Section` MAT 199 - History of Mathematics
+* `Twelve Sections` MAT 112 - Integral Calculus
 
-`Two Sections` MAT 210 - Multivariable Calculus
+* `One Section` MAT 199 - History of Mathematics
 
-`Seven Sections`  MAT 280 - Linear Algebra
+* `Two Sections` MAT 210 - Multivariable Calculus
 
-`Four Sections`  MAT 310 - Differential Equations
+* `Seven Sections`  MAT 280 - Linear Algebra
 
-`Two Sections`  MAT 320 - Probability Theory
+* `Four Sections`  MAT 310 - Differential Equations
 
-`One Section` MAT 392 and 492 - Junior and Senior Math Seminar
+* `Two Sections`  MAT 320 - Probability Theory
 
-`Three Sections`  MAT 470 - Real Analysis
+* `One Section` MAT 392 and 492 - Junior and Senior Math Seminar
 
-### Senior Capstone Projects Mentored
+* `Three Sections`  MAT 470 - Real Analysis
 
-`2019-2020` Nicole Albrecht "An Introduction To Compartmental Models Of Infectious Disease"
+### Senior Capstone Projects Mentored at Washington College
 
-`2019-2020` Patrick Berry "Quantum Computing"
+* `2019-2020` Nicole Albrecht "An Introduction To Compartmental Models Of Infectious Disease."
 
-`2019` Gauge Burnett "Fantastic Knots and How to Tie Them"
+* `2019-2020` Patrick Berry "Quantum Computing."
 
-`2018-2019` Simon Checknoff  "Using Lie Symmetries to Solve Differential Equations"
+* `2019` Gauge Burnett "Fantastic Knots and How to Tie Them."
+
+* `2018-2019` Simon Checknoff  "Using Lie Symmetries to Solve Differential Equations."
+
+* `2018-2019` Molly Flowers " An Experimental Study of Time-Reversal Acoustics."
+
+* `2018-2019` Kevin McCormick "Optimal Control Theory: Dynamic Programming of Solar Panel Consumption."
+
+* `2018-2019`  Sheng Mi "Brownian Motion and Stock Prices"
+
+* `2017-2018`  Yilin Yang "The Application of Mathematics in the Game 'Lights Out.'"
+
+* `2017-2018`  Alexandra Young "Female Labor Force Participation Rate Effects on Births"
+
+* `2017-2018` Courtney Rainey "Exploding Dots and Division Rules."
+
+* `2016-2017` Dimitri Kaliakin "Assessment of Kellers Mathematical Model for Optimal Velocity in a Footrace"
+  
+* `2016-2017` Ricardo Wu "Model of Business Risk Management."
+* `2015-2016` Bryten Ives "Theory and Actuarial Applications of Stochastic Processes."
+* `2015-2016` Maisie Newman "Efficiently Modeling the Control of West Nile Virus."
+* `2015-2016` Laurel Jones "Exploring Mathematical Models of the Bacterium *Clostridium difficile*."
+
+`2011-2015` **Baylor University** Teacher of Record, Department of Mathematics 
+  
+
+### Courses Managed at Baylor University
+* `Three Sections` MTH 1320 - Precalculus Mathematics 
+
+* `One Sections` MTH 1321 - Calculus I
+
+* `One Sections` MTH 1308 - Precalculus for Business Students
+
+* `One Sections`  MTH 1309 - Calculus for Business Students
+
+### Mentor for Undergraduate Research At Baylor University
+* `Spring 2013` Brooklyn George "On the Stability Region for Dynamic Equations on the Cantor Set."
+
+* `2014-2015` Matthew Mosely " Applications of Dynamic Equations on Time Scales." Honors Thesis on Engineering
+
+## Honors 
+
+### Teaching Awards
+
+* `May 2015` Baylor University Department of Mathematics Outstanding Graduate Student Teaching Award.
+
+* `Jan 2023` Cromwell Award for Innovation in Teaching, Cromwell Center for Teaching and Learning, Washington College.
+
+### Professional Development Fellowships
+
+* `June 2015 - August 2016` Project NExT Fellow. Project NExT is a professional development program for early-career mathematicians.
+
+## Honor Societies
+
+* `Fall 2015` Pi Mu Epsilon, Iota of Maryland. Charter faculty member.
+
+* `Spring 2010` Phi Beta Kappa, Delta of Washington.
+
+## Service 
+
+### Service to Washington College
+* `Fall 2021 - Present` Chair, Department of Mathematics and Computer Science.
+* `Fall 2021 - Present` Member, Tenure and Promotion Committee.
+* `Fall 2019 - Fall 2021` Member, Assessment Committee.
+* `Fall 2017 - Fall 2019` Faculty Advisor to the Student Government Association.
+* `Fall 2017 - Fall 2019` Chair, Student Life Committee.
+* `Fall 2016 - Spring 2018` Member, Cromwell CTL Advisory Board
+* `2015, 2017, 2018, 2021` Member, Search Committee for the Department of Mathematics and Computer Science.
+ 
+### Chairing Sessions
+* Joint Mathematics Meetings, Baltimore, MD Jan 2014. AMS Session on Game Theory and Computing
+* Joint Mathematics Meetings, San Antonio, TX Jan 2015. AMS Session on Game Theory, Economics, Control Theory, and Information
+* Joint Mathematics Meetings, Seattle, WA Jan 2016. AMS Session on Computer Science, Information, Control Theory, and Economics
+
+### Peer Review
+* *Nonlinear Analysis: Hybrid Systems* Four Reviews. Outstanding Reviewer Status.
+* *Journal of the Franklin Institute* Two Reviews. Recognized Reviewer Status.
+* *IFAC World Congress 2020* Two Reviews.
+* *Advances in Difference Equations* One Review.
