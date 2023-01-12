@@ -1,13 +1,10 @@
 ---
 layout: page
-title: CV
+title: Dylan R. S. Poulsen, Ph. D. Curriculum Vitae
 permalink: /cv/
 ---
 
-# Dylan R. S. Poulsen, Ph. D.
-
 Mathematician, Writer, Educator, Consultant
-
 
 <div id="webaddress">
 <a href="mailto:dpoulsen2@washcoll.edu">dpoulsen2@washcoll.edu</a>
@@ -89,27 +86,120 @@ B.S., Mathematics, May 2010
 ### Invited Colloquim Speaker
 
 `Jan 2022` Christopher Newport University Department of Mathematics Colloquium
+
 "Finding Mathematical Joy Cutting Onions."
 
 `June 2018` University of Valenciennes Séminaire ROC du Département Auto. 
-  "Stability of Linear Systems Subject to Stochastic Timing."
+  
+"Stability of Linear Systems Subject to Stochastic Timing."
 
 `Mar 2018` United States Naval Academy Applied Mathematics Seminar
-  "Engineering in an Imperfect World."
+  
+"Engineering in an Imperfect World."
 
 `Sept 2016` Christopher Newport University Department of Mathematics Colloquium
-  "Engineering in an Imperfect World."
+  
+"Engineering in an Imperfect World."
 
 ### Conference Speaker
 
 `July 2020` IFAC World Congress, Berlin, Germany (Virtual)
-  "Observer-Based Output Feedback Consensus Protocol for Double-Integrator Multi-Agent Systems Under Intermittent Sampled Position Measurements."
+  
+"Observer-Based Output Feedback Consensus Protocol for Double-Integrator Multi-Agent Systems Under Intermittent Sampled Position Measurements."
 
 `Jan 2019` Joint Mathematics Meetings, Baltimore, MD
-  "Consensus of Multi-Agent Systems: A Time Scales Approach."
+  
+"Consensus of Multi-Agent Systems: A Time Scales Approach."
 
 `July 2017` IFAC World Congress, Toulouse, France July 2017
-  "Opitmal Control on Stochastic Time Scales."
+ 
+ "Opitmal Control on Stochastic Time Scales."
+
+`Jan 2016` Joint Mathematics Meetings, Seattle, WA 
+  
+"Can an Unstable Control System Be Stabilized By Timing Noise?"
+
+`Nov 2015` MAA MD-DC-VA Sectional Meeting, Saint Marys City, MD
+  
+"Can an Unstable Control System Be Stabilized By Timing Noise?"
+
+`Oct 2015` ASME 2015 Dynamic Systems and Control Conference, Columbus, OH
+
+"Numeric and Analytic Investigations of Mean-Square Exponential Stability for Stochastically Timed Systems."
+
+`Jan 2015` Joint Mathematics Meetings, San Antonio, TX
+ 
+"The Geometry of the Region of Uniform Exponential Stability on an Arbitrary Time Scale."
+
+`Oct 2014` ASME 2014 Dynamic Systems and Control Conference, San Antonio, TX
+
+"Is Deterministic Real Time Control Always Necessary? A Time Scales Perspective."
+
+`Jan 2014` Joint Mathematics Meetings, Baltimore, MD
+  
+"Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
+
+`Oct 2013` Central Section Fall Meeting of the AMS, St. Louis, MO
+
+"Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
+
+`Mar 2013` Southeastern Symposium on Systems Theory, Waco, TX
+
+"Stochastic Time Scales: Quadratic Lyapunov Functions and Probabilistic Regions of Stability."
+
+"Observer Based Feedback Controllers on Stochastic Time Scales."
+
+`Mar 2012` Southeastern Symposium on Systems Theory, Jacksonville, FL
+
+"On the Stability of Mu-Varying Dynamic Equations on Stochastically Generated Time Scales."
+
+"Time Scale-Based Observer Design for Battery State-of-Charge Estimation."
+
+`Mar 2011` Southeastern Symposium on Systems Theory, Auburn, AL
+
+"The Poisson Process and Associated Probability Distributions on
+Time Scales."
+
+`Oct 2009` Central Section Fall Meeting of the AMS, Waco, TX
+
+"Coupled Conditions for Asymptotic Equivalence on Time Scales."
+
+`Oct 2009` INFORMS Annual National Meeting, San Diego, CA
+
+"The Optimal Tilt Angle of Solar Panels."
+
+`Aug 2009` MAA MathFest, Portland, OR
+
+"The Optimal Tilt Angle of Solar Panels."
+
+`June 2009` Rocky Mountain Mathematics Consortium, Laramie, WY
+
+"Coupled Conditions for Asymptotic Equivalence on Time Scales."
+
+`Apr 2009` MAA Paciffic Northwest Sectional Meeting, Ellensburg, WA
+
+"The Asymptotic Behavior of Dynamic Equations on Time Scales."
+
+## Teaching Experience
+
+`2015 - ` Department of Mathematics and Computer Science, Washington College
+
+Courses Designed and Managed
+
+`Two Sections` MAT 109 - Statistics
+`Ten Sections` MAT 111 - Differential Calculus
+`Twelve Sections` MAT 112 - Integral Calculus
+`One Section` MAT 199 - History of Mathematics
+`Two Sections` MAT 210 - Multivariable Calculus
+`Seven Sections`  MAT 280 - Linear Algebra
+`Four Sections`  MAT 310 - Differential Equations
+`Two Sections`  MAT 320 - Probability Theory
+`One Section` MAT 392 and 492 - Junior and Senior Math Seminar
+`Three Sections`  MAT 470 - Real Analysis
+
+
+
+
 
 
 
