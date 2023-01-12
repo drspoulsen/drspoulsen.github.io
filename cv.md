@@ -69,69 +69,43 @@ B.S., Mathematics, May 2010
 
 ## Institutional Grants
 
-1. *Lowering the Barrier to Entry in Probability via Coding and Simulation Labs,* Cromwell Center for Teaching and Learning Innovative Pedagogy Grant, Funded, $2000 for Summer 2020.
-  
-2. *The Application of Stochastic Time Scales to Control Engineering,* Faculty Enhancement Grant, Funded, $1,008 for Summer 2018.
-
-3. *Differential Calculus,* Cromwell Center for Teaching and Learning Innovative Pedagogy Grant, Funded, $5,000 for Spring 2017. (Co-PI with Nathaniel Schwartz)
+* `Summer 2020` *Lowering the Barrier to Entry in Probability via Coding and Simulation Labs,* Cromwell Center for Teaching and Learning Innovative Pedagogy Grant, Funded, $2000.
+* `Summer 2018` *The Application of Stochastic Time Scales to Control Engineering,* Faculty Enhancement Grant, Funded, $1,008.
+* `Spring 2017` *Differential Calculus,* Cromwell Center for Teaching and Learning Innovative Pedagogy Grant, Funded, $5,000 (Co-PI with Nathaniel Schwartz)
 
 ## Presentations
 
 ### Invited Colloquim Speaker
 
 * `Jan 2022` Christopher Newport University Department of Mathematics Colloquium. "Finding Mathematical Joy Cutting Onions."
-
 * `June 2018` University of Valenciennes Séminaire ROC du Département Auto. "Stability of Linear Systems Subject to Stochastic Timing."
-
 * `Mar 2018` United States Naval Academy Applied Mathematics Seminar. "Engineering in an Imperfect World."
-
 * `Sept 2016` Christopher Newport University Department of Mathematics Colloquium. "Engineering in an Imperfect World."
 
 ### Conference Speaker
 
 * `July 2020` IFAC World Congress, Berlin, Germany (Virtual). "Observer-Based Output Feedback Consensus Protocol for Double-Integrator Multi-Agent Systems Under Intermittent Sampled Position Measurements."
-
 * `Jan 2019` Joint Mathematics Meetings, Baltimore, MD. "Consensus of Multi-Agent Systems: A Time Scales Approach."
-
 * `July 2017` IFAC World Congress, Toulouse, France July 2017. "Opitmal Control on Stochastic Time Scales."
-
 * `Jan 2016` Joint Mathematics Meetings, Seattle, WA. "Can an Unstable Control System Be Stabilized By Timing Noise?"
-
 * `Nov 2015` MAA MD-DC-VA Sectional Meeting, Saint Marys City, MD. "Can an Unstable Control System Be Stabilized By Timing Noise?"
-
 * `Oct 2015` ASME 2015 Dynamic Systems and Control Conference, Columbus, OH. "Numeric and Analytic Investigations of Mean-Square Exponential Stability for Stochastically Timed Systems."
-
 * `Jan 2015` Joint Mathematics Meetings, San Antonio, TX. "The Geometry of the Region of Uniform Exponential Stability on an Arbitrary Time Scale."
-
 * `Oct 2014` ASME 2014 Dynamic Systems and Control Conference, San Antonio, TX. "Is Deterministic Real Time Control Always Necessary? A Time Scales Perspective."
-
 * `Jan 2014` Joint Mathematics Meetings, Baltimore, MD. "Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
-
 * `Oct 2013` Central Section Fall Meeting of the AMS, St. Louis, MO. "Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
-
 * `Mar 2013` Southeastern Symposium on Systems Theory, Waco, TX. 
-
 1. "Stochastic Time Scales: Quadratic Lyapunov Functions and Probabilistic Regions of Stability."
-
 2. "Observer Based Feedback Controllers on Stochastic Time Scales."
-
 * `Mar 2012` Southeastern Symposium on Systems Theory, Jacksonville, FL.
-
 1. "On the Stability of Mu-Varying Dynamic Equations on Stochastically Generated Time Scales."
-
 2. "Time Scale-Based Observer Design for Battery State-of-Charge Estimation."
-
 * `Mar 2011` Southeastern Symposium on Systems Theory, Auburn, AL. "The Poisson Process and Associated Probability Distributions on
 Time Scales."
-
 * `Oct 2009` Central Section Fall Meeting of the AMS, Waco, TX. "Coupled Conditions for Asymptotic Equivalence on Time Scales."
-
 * `Oct 2009` INFORMS Annual National Meeting, San Diego, CA. "The Optimal Tilt Angle of Solar Panels."
-
 * `Aug 2009` MAA MathFest, Portland, OR. "The Optimal Tilt Angle of Solar Panels."
-
 * `June 2009` Rocky Mountain Mathematics Consortium, Laramie, WY. "Coupled Conditions for Asymptotic Equivalence on Time Scales."
-
 * `Apr 2009` MAA Paciffic Northwest Sectional Meeting, Ellensburg, WA. "The Asymptotic Behavior of Dynamic Equations on Time Scales."
 
 ### Conference Poster Presentations
@@ -149,87 +123,57 @@ Time Scales."
 ### Courses Designed and Managed at Washington College
 
 * `Two Sections` MAT 109 - Statistics
-
 * `Ten Sections` MAT 111 - Differential Calculus
-
 * `Twelve Sections` MAT 112 - Integral Calculus
-
 * `One Section` MAT 199 - History of Mathematics
-
 * `Two Sections` MAT 210 - Multivariable Calculus
-
 * `Seven Sections`  MAT 280 - Linear Algebra
-
 * `Four Sections`  MAT 310 - Differential Equations
-
 * `Two Sections`  MAT 320 - Probability Theory
-
 * `One Section` MAT 392 and 492 - Junior and Senior Math Seminar
-
 * `Three Sections`  MAT 470 - Real Analysis
 
 ### Senior Capstone Projects Mentored at Washington College
 
 * `2022-2023` Sneha Dixit "Markov Chains." In Progress
-
 * `2022-2023` Alex Heim "Cellular Automata." In Progress
-
 * `2022-2023` Seyed Marjaei "Navier-Stokes." In Progress
-
 * `2022` Rachel Chatfield "Mathematical Scaling and Use of Organ-on-a-Chip for Disease Modeling and Drug Testing."
-
 * `2022` Sam Hickman "LQR Control of a Reaction Wheel Inverted Pendulum."
-
 * `2021-2022` Evan McCarthy "Power System Automation for Electric Race Boats."
-
 * `2021-2022` Chloe Sass "The Discrete Kalman Filter."
-
 * `2021-2022` Kennett Vail-Rojas "On the Interactions of Black Holes and Dark Matter: Primordial Black Holes as Potential Dark Matter Constituents."
-
 * `2020-2021` Brendan Farrell "A Review of Superconductivity."
-
 * `2019-2020` Nicole Albrecht "An Introduction To Compartmental Models Of Infectious Disease."
-
 * `2019-2020` Patrick Berry "Quantum Computing."
-
 * `2019` Gauge Burnett "Fantastic Knots and How to Tie Them."
-
 * `2018-2019` Simon Checknoff  "Using Lie Symmetries to Solve Differential Equations."
-
 * `2018-2019` Molly Flowers " An Experimental Study of Time-Reversal Acoustics."
-
 * `2018-2019` Kevin McCormick "Optimal Control Theory: Dynamic Programming of Solar Panel Consumption."
-
 * `2018-2019`  Sheng Mi "Brownian Motion and Stock Prices"
-
 * `2017-2018`  Yilin Yang "The Application of Mathematics in the Game 'Lights Out.'"
-
 * `2017-2018`  Alexandra Young "Female Labor Force Participation Rate Effects on Births"
-
 * `2017-2018` Courtney Rainey "Exploding Dots and Division Rules."
-
 * `2016-2017` Dimitri Kaliakin "Assessment of Kellers Mathematical Model for Optimal Velocity in a Footrace"
-  
 * `2016-2017` Ricardo Wu "Model of Business Risk Management."
 * `2015-2016` Bryten Ives "Theory and Actuarial Applications of Stochastic Processes."
 * `2015-2016` Maisie Newman "Efficiently Modeling the Control of West Nile Virus."
 * `2015-2016` Laurel Jones "Exploring Mathematical Models of the Bacterium *Clostridium difficile*."
 
+---
+
 `2011-2015` **Baylor University** Teacher of Record, Department of Mathematics 
   
 
 ### Courses Managed at Baylor University
+
 * `Three Sections` MTH 1320 - Precalculus Mathematics 
-
 * `One Sections` MTH 1321 - Calculus I
-
 * `One Sections` MTH 1308 - Precalculus for Business Students
-
 * `One Sections`  MTH 1309 - Calculus for Business Students
 
 ### Mentor for Undergraduate Research At Baylor University
 * `Spring 2013` Brooklyn George "On the Stability Region for Dynamic Equations on the Cantor Set."
-
 * `2014-2015` Matthew Mosely " Applications of Dynamic Equations on Time Scales." Honors Thesis on Engineering
 
 ## Honors 
@@ -237,7 +181,6 @@ Time Scales."
 ### Teaching Awards
 
 * `May 2015` Baylor University Department of Mathematics Outstanding Graduate Student Teaching Award.
-
 * `Jan 2023` Cromwell Award for Innovation in Teaching, Cromwell Center for Teaching and Learning, Washington College.
 
 ### Professional Development Fellowships
@@ -247,7 +190,6 @@ Time Scales."
 ## Honor Societies
 
 * `Fall 2015` Pi Mu Epsilon, Iota of Maryland. Charter faculty member.
-
 * `Spring 2010` Phi Beta Kappa, Delta of Washington.
 
 ## Service 
@@ -263,18 +205,13 @@ Time Scales."
  
 ### Chairing Sessions
 
-* Joint Mathematics Meetings, Baltimore, MD Jan 2014. AMS Session on Game Theory and Computing
-
-* Joint Mathematics Meetings, San Antonio, TX Jan 2015. AMS Session on Game Theory, Economics, Control Theory, and Information
-
-* Joint Mathematics Meetings, Seattle, WA Jan 2016. AMS Session on Computer Science, Information, Control Theory, and Economics
+* Joint Mathematics Meetings, Baltimore, MD Jan 2014. AMS Session on Game Theory and Computing.
+* Joint Mathematics Meetings, San Antonio, TX Jan 2015. AMS Session on Game Theory, Economics, Control Theory, and Information.
+* Joint Mathematics Meetings, Seattle, WA Jan 2016. AMS Session on Computer Science, Information, Control Theory, and Economics.
 
 ### Peer Review
 
 * *Nonlinear Analysis: Hybrid Systems* Four Reviews. Outstanding Reviewer Status.
-
 * *Journal of the Franklin Institute* Two Reviews. Recognized Reviewer Status.
-
 * *IFAC World Congress 2020* Two Reviews.
-
 * *Advances in Difference Equations* One Review.
