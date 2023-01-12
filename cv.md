@@ -168,6 +168,24 @@ Time Scales."
 
 ### Senior Capstone Projects Mentored at Washington College
 
+* `2022-2023` Sneha Dixit
+
+* `2022-2023` Alex Heim
+
+* `2022-2023` Seyed Marjaei
+
+* `2022` Rachel Chatfield
+
+* `2022` Sam Hickman
+
+* `2021-2022` Evan McCarthy
+
+* `2021-2022` Chloe Sass
+
+* `2021-2022` Kennett Vail-Rojas
+
+* `2020-2021` Brendan Farrell
+
 * `2019-2020` Nicole Albrecht "An Introduction To Compartmental Models Of Infectious Disease."
 
 * `2019-2020` Patrick Berry "Quantum Computing."
