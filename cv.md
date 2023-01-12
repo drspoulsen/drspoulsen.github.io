@@ -195,6 +195,7 @@ Time Scales."
 ## Service 
 
 ### Service to Washington College
+
 * `Fall 2021 - Present` Chair, Department of Mathematics and Computer Science.
 * `Fall 2021 - Present` Member, Tenure and Promotion Committee.
 * `Fall 2019 - Fall 2021` Member, Assessment Committee.
