@@ -168,23 +168,23 @@ Time Scales."
 
 ### Senior Capstone Projects Mentored at Washington College
 
-* `2022-2023` Sneha Dixit
+* `2022-2023` Sneha Dixit "Markov Chains." In Progress
 
-* `2022-2023` Alex Heim
+* `2022-2023` Alex Heim "Cellular Automata." In Progress
 
-* `2022-2023` Seyed Marjaei
+* `2022-2023` Seyed Marjaei "Navier-Stokes." In Progress
 
-* `2022` Rachel Chatfield
+* `2022` Rachel Chatfield "Mathematical Scaling and Use of Organ-on-a-Chip for Disease Modeling and Drug Testing."
 
-* `2022` Sam Hickman
+* `2022` Sam Hickman "LQR Control of a Reaction Wheel Inverted Pendulum."
 
-* `2021-2022` Evan McCarthy
+* `2021-2022` Evan McCarthy "Power System Automation for Electric Race Boats."
 
-* `2021-2022` Chloe Sass
+* `2021-2022` Chloe Sass "The Discrete Kalman Filter."
 
-* `2021-2022` Kennett Vail-Rojas
+* `2021-2022` Kennett Vail-Rojas "On the Interactions of Black Holes and Dark Matter: Primordial Black Holes as Potential Dark Matter Constituents."
 
-* `2020-2021` Brendan Farrell
+* `2020-2021` Brendan Farrell "A Review of Superconductivity."
 
 * `2019-2020` Nicole Albrecht "An Introduction To Compartmental Models Of Infectious Disease."
 
@@ -260,12 +260,19 @@ Time Scales."
 * `2015, 2017, 2018, 2021` Member, Search Committee for the Department of Mathematics and Computer Science.
  
 ### Chairing Sessions
+
 * Joint Mathematics Meetings, Baltimore, MD Jan 2014. AMS Session on Game Theory and Computing
+
 * Joint Mathematics Meetings, San Antonio, TX Jan 2015. AMS Session on Game Theory, Economics, Control Theory, and Information
+
 * Joint Mathematics Meetings, Seattle, WA Jan 2016. AMS Session on Computer Science, Information, Control Theory, and Economics
 
 ### Peer Review
+
 * *Nonlinear Analysis: Hybrid Systems* Four Reviews. Outstanding Reviewer Status.
+
 * *Journal of the Franklin Institute* Two Reviews. Recognized Reviewer Status.
+
 * *IFAC World Congress 2020* Two Reviews.
+
 * *Advances in Difference Equations* One Review.
