@@ -180,9 +180,7 @@ Time Scales."
 * `Fall 2015` Pi Mu Epsilon, Iota of Maryland. Charter faculty member.
 * `Spring 2010` Phi Beta Kappa, Delta of Washington.
 
-## Service 
-
-### Service to Washington College
+## Service to Washington College
 
 * `Fall 2021 - Present` Chair, Department of Mathematics and Computer Science.
 * `Fall 2021 - Present` Member, Tenure and Promotion Committee.
@@ -192,6 +190,8 @@ Time Scales."
 * `Fall 2016 - Spring 2018` Member, Cromwell CTL Advisory Board
 * `2015, 2017, 2018, 2021` Member, Search Committee for the Department of Mathematics and Computer Science.
  
+## Service to the Profession 
+
 ### Chairing Sessions
 
 * Joint Mathematics Meetings, Baltimore, MD Jan 2014. AMS Session on Game Theory and Computing.
