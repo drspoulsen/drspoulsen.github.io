@@ -85,17 +85,17 @@ B.S., Mathematics, May 2010
 
 ### Invited Colloquim Speaker
 
-`Jan 2022` Christopher Newport University Department of Mathematics Colloquium
+* `Jan 2022` Christopher Newport University Department of Mathematics Colloquium
 
-* "Finding Mathematical Joy Cutting Onions."
+"Finding Mathematical Joy Cutting Onions."
 
-`June 2018` University of Valenciennes Séminaire ROC du Département Auto. 
+* `June 2018` University of Valenciennes Séminaire ROC du Département Auto. 
   
-* "Stability of Linear Systems Subject to Stochastic Timing."
+"Stability of Linear Systems Subject to Stochastic Timing."
 
-`Mar 2018` United States Naval Academy Applied Mathematics Seminar
+* `Mar 2018` United States Naval Academy Applied Mathematics Seminar
   
-* "Engineering in an Imperfect World."
+"Engineering in an Imperfect World."
 
 `Sept 2016` Christopher Newport University Department of Mathematics Colloquium
   
