@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Dylan R. S. Poulsen, Ph. D. Curriculum Vitae
+title: Curriculum Vitae.
 permalink: /cv/
 ---
+
+Dylan R. S. Poulsen, Ph.D.
 
 Mathematician, Writer, Educator, Consultant
 
