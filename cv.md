@@ -36,12 +36,12 @@ B.S., Mathematics, May 2010
 
 ### Journal articles
 1. Billy J. Jackson, John M. Davis, and **Dylan Poulsen** "A Polar Representation of the Hilger Complex Plane" *International Journal of Difference Equations* **15**: (2020) 419 - 427.
-1. **Dylan Poulsen**, Michael Defoort, and Mohamed Djemai "Mean Square Consensus of Double-Integrator Multi-Agent Systems Under Intermittent Control: A Stochastic Time Scale Approach" *Journal of the Franklin Institute* **356**: (2019) 9076 - 9094.
-2. **Dylan Poulsen** and Nick Wintz. "The Kalman Filter on Stochastic Time Scales." *Nonlinear Analysis: Hybrid Systems* **33** (2019): 151-161.
-3. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Mean Square Stabilityfor Systems on Stochastically Generated Discrete Time Scales." *Nonlinear Analysis: Hybrid Systems* **31** (2019): 41-55.
-4. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "The Geometry of the Region of Uniform Exponential Stability for Linear Time Invariant Dynamic Equations on Time Scales." *DCDIS Series A: Mathematical Analysis* **25** (2018): 159-173.
+2. **Dylan Poulsen**, Michael Defoort, and Mohamed Djemai "Mean Square Consensus of Double-Integrator Multi-Agent Systems Under Intermittent Control: A Stochastic Time Scale Approach" *Journal of the Franklin Institute* **356**: (2019) 9076 - 9094.
+3. **Dylan Poulsen** and Nick Wintz. "The Kalman Filter on Stochastic Time Scales." *Nonlinear Analysis: Hybrid Systems* **33** (2019): 151-161.
+4. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Mean Square Stabilityfor Systems on Stochastically Generated Discrete Time Scales." *Nonlinear Analysis: Hybrid Systems* **31** (2019): 41-55.
+5. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "The Geometry of the Region of Uniform Exponential Stability for Linear Time Invariant Dynamic Equations on Time Scales." *DCDIS Series A: Mathematical Analysis* **25** (2018): 159-173.
 
-## Peer-Reviewed Conference Publications
+### Peer-Reviewed Conference Publications
 
 1. **Dylan Poulsen**, Michael Defoort, and Mohamed Djemai. "Observer-Based Output Feedback Consensus Protocol for Double-Integrator Multi-Agent Systems Under Intermittent Sampled Position Measurements." *IFAC-PapersOnLine*. IFAC, 2020.
 2. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Optimal Control on Stochastic Time Scales." *IFAC-PapersOnLine*. IFAC, 2017.
