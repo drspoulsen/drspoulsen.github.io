@@ -4,9 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
- <div id="main">
-    <div id="content">
-
 # Benjamin L. Moore
 Bioinformatics PhD and Solutions Architect
 
@@ -175,5 +172,3 @@ Available on request.
 
 Last updated: May 2013 -->
 
-    </div>
-  </div>
