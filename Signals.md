@@ -11,6 +11,8 @@ f(t) = \sin( \pi/32 t); 0 \leq t \leq 63
 x(n) = \{\sin(0), \sin(3 \pi/32), \sin(6 \pi/32),...., \sin(63 \pi/32)} = \{\sin(3n \pi/32)\}_{n=0}^{21}
 y(n) = \{\sin(\pi/32), \sin(4 \pi/32),\sin(7 \pi/32),... \sin(64 \pi/32)} = \{\sin((3n+1) \pi/32)\}_{n=0}^{21}
 
+According the the slides, the DTFT of x(n) is
 
+{\cal F}_{\mathbb{Z}}\{x\}(e^{i \omega}) = frac{2 \pi}{22} \sum_{t=\infty}^{\infty} \sum_{n=0}^{21} x(n) e^{-2 \pi i r n/22} \delta(\omega-\frac{2 \pi r}{N})
 
 
