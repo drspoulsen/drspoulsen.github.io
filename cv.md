@@ -156,9 +156,9 @@ Time Scales."
 ### Courses Managed at Baylor University
 
 * `Three Sections` MTH 1320 - Precalculus Mathematics 
-* `One Sections` MTH 1321 - Calculus I
-* `One Sections` MTH 1308 - Precalculus for Business Students
-* `One Sections`  MTH 1309 - Calculus for Business Students
+* `One Section` MTH 1321 - Calculus I
+* `One Section` MTH 1308 - Precalculus for Business Students
+* `One Section`  MTH 1309 - Calculus for Business Students
 
 ### Mentor for Undergraduate Research At Baylor University
 * `Spring 2013` Brooklyn George "On the Stability Region for Dynamic Equations on the Cantor Set."
