@@ -35,6 +35,8 @@ B.S., Mathematics, May 2010
 ## Publications
 
 ### Journal articles
+
+1. Tom Cuchta, **Dylan Poulsen**, and Nick Wintz "Linear Quadratic Tracking and Continuous Conformable Derivatives" *European Journal of Control.* To appear.
 1. Billy J. Jackson, John M. Davis, and **Dylan Poulsen** "A Polar Representation of the Hilger Complex Plane" *International Journal of Difference Equations* **15**: (2020) 419 - 427.
 2. **Dylan Poulsen**, Michael Defoort, and Mohamed Djemai "Mean Square Consensus of Double-Integrator Multi-Agent Systems Under Intermittent Control: A Stochastic Time Scale Approach" *Journal of the Franklin Institute* **356**: (2019) 9076 - 9094.
 3. **Dylan Poulsen** and Nick Wintz. "The Kalman Filter on Stochastic Time Scales." *Nonlinear Analysis: Hybrid Systems* **33** (2019): 151-161.
