@@ -123,9 +123,8 @@ Time Scales."
 
 ### Senior Capstone Projects Mentored at Washington College
 
-* `2022-2023` Sneha Dixit "Markov Chains." In Progress
-* `2022-2023` Alex Heim "Cellular Automata." In Progress
-* `2022-2023` Seyed Marjaei "Navier-Stokes." In Progress
+* `2022-2023` Sneha Dixit "The Fourier Transform and Applications." In Progress
+* `2022-2023` Seyed Marjaei "Propeller Design and Dynamic Mode Decomposition." In Progress
 * `2022` Rachel Chatfield "Mathematical Scaling and Use of Organ-on-a-Chip for Disease Modeling and Drug Testing."
 * `2022` Sam Hickman "LQR Control of a Reaction Wheel Inverted Pendulum."
 * `2021-2022` Evan McCarthy "Power System Automation for Electric Race Boats."
