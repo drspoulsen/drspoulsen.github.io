@@ -37,11 +37,11 @@ B.S., Mathematics, May 2010
 ### Journal articles
 
 1. Tom Cuchta, **Dylan Poulsen**, and Nick Wintz "Linear Quadratic Tracking and Continuous Conformable Derivatives" *European Journal of Control.* To appear.
-1. Billy J. Jackson, John M. Davis, and **Dylan Poulsen** "A Polar Representation of the Hilger Complex Plane" *International Journal of Difference Equations* **15**: (2020) 419 - 427.
-2. **Dylan Poulsen**, Michael Defoort, and Mohamed Djemai "Mean Square Consensus of Double-Integrator Multi-Agent Systems Under Intermittent Control: A Stochastic Time Scale Approach" *Journal of the Franklin Institute* **356**: (2019) 9076 - 9094.
-3. **Dylan Poulsen** and Nick Wintz. "The Kalman Filter on Stochastic Time Scales." *Nonlinear Analysis: Hybrid Systems* **33** (2019): 151-161.
-4. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Mean Square Stabilityfor Systems on Stochastically Generated Discrete Time Scales." *Nonlinear Analysis: Hybrid Systems* **31** (2019): 41-55.
-5. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "The Geometry of the Region of Uniform Exponential Stability for Linear Time Invariant Dynamic Equations on Time Scales." *DCDIS Series A: Mathematical Analysis* **25** (2018): 159-173.
+2. Billy J. Jackson, John M. Davis, and **Dylan Poulsen** "A Polar Representation of the Hilger Complex Plane" *International Journal of Difference Equations* **15**: (2020) 419 - 427.
+3. **Dylan Poulsen**, Michael Defoort, and Mohamed Djemai "Mean Square Consensus of Double-Integrator Multi-Agent Systems Under Intermittent Control: A Stochastic Time Scale Approach" *Journal of the Franklin Institute* **356**: (2019) 9076 - 9094.
+4. **Dylan Poulsen** and Nick Wintz. "The Kalman Filter on Stochastic Time Scales." *Nonlinear Analysis: Hybrid Systems* **33** (2019): 151-161.
+5. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Mean Square Stabilityfor Systems on Stochastically Generated Discrete Time Scales." *Nonlinear Analysis: Hybrid Systems* **31** (2019): 41-55.
+6. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "The Geometry of the Region of Uniform Exponential Stability for Linear Time Invariant Dynamic Equations on Time Scales." *DCDIS Series A: Mathematical Analysis* **25** (2018): 159-173.
 
 ### Peer-Reviewed Conference Publications
 
@@ -103,8 +103,10 @@ Time Scales."
 * `Mar 2019` American Association for Cancer Research Annual Meeting 2019. "Rapid Fluorescence Based Assessment of RNA Integrity Quality Using Machine Learning." Presented by Scott Clarke.
 
 ## Teaching Experience
+`2024-present` 
+**Washington College** John W. Allender Associate Professor of Ethical Data Science
 
-`2021-` 
+`2021-2024` 
 **Washington College** Associate Professor of Mathematics
 
 `2015-21` 
@@ -112,21 +114,23 @@ Time Scales."
 
 ### Courses Designed and Managed at Washington College
 
-* `Two Sections` MAT 109 - Statistics
-* `Ten Sections` MAT 111 - Differential Calculus
+* `Four Sections` MAT 109 - Statistics
+* `Twelve Sections` MAT 111 - Differential Calculus
 * `Twelve Sections` MAT 112 - Integral Calculus
-* `One Section` MAT 199 - History of Mathematics
+* `Two Sections` MAT 199 - History of Mathematics
 * `Two Sections` MAT 210 - Multivariable Calculus
+* `One Section` CSI 220 - Introduction to Data Science
 * `Seven Sections`  MAT 280 - Linear Algebra
-* `Four Sections`  MAT 310 - Differential Equations
+* `Fice Sections`  MAT 310 - Differential Equations
 * `Two Sections`  MAT 320 - Probability Theory
 * `One Section` MAT 392 and 492 - Junior and Senior Math Seminar
+* `One Section` MAT 394 - Partial Differential Equations
 * `Three Sections`  MAT 470 - Real Analysis
 
 ### Senior Capstone Projects Mentored at Washington College
 
-* `2022-2023` Sneha Dixit "The Fourier Transform and Applications." In Progress
-* `2022-2023` Seyed Marjaei "Propeller Design and Dynamic Mode Decomposition." In Progress
+* `2022-2023` Sneha Dixit "The Fourier Transform and Applications."
+* `2022-2023` Seyed Marjaei "Propeller Design and Dynamic Mode Decomposition."
 * `2022` Rachel Chatfield "Mathematical Scaling and Use of Organ-on-a-Chip for Disease Modeling and Drug Testing."
 * `2022` Sam Hickman "LQR Control of a Reaction Wheel Inverted Pendulum."
 * `2021-2022` Evan McCarthy "Power System Automation for Electric Race Boats."
@@ -198,10 +202,11 @@ Time Scales."
 
 ## Service to Washington College
 
-* `Fall 2021 - Present` Chair, Department of Mathematics and Computer Science.
-* `Fall 2021 - Present` Member, Tenure and Promotion Committee.
+* `Fall 2023, Fall 2024 - Present` Member, Planning Committee.
+* `Fall 2021 - Spring 2024` Chair, Department of Mathematics and Computer Science.
+* `Fall 2021 - Spring 2023` Member, Tenure and Promotion Committee.
 * `Fall 2019 - Fall 2021` Member, Assessment Committee.
 * `Fall 2017 - Fall 2019` Faculty Advisor to the Student Government Association.
 * `Fall 2017 - Fall 2019` Chair, Student Life Committee.
 * `Fall 2016 - Spring 2018` Member, Cromwell CTL Advisory Board.
-* `2015, 2017, 2018, 2021` Member, Search Committee for the Department of Mathematics and Computer Science.
+* `2015, 2017, 2018, 2021, 2023` Member, Search Committee for the Department of Mathematics and Computer Science.
