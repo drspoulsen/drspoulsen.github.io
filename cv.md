@@ -57,6 +57,9 @@ B.S., Mathematics, May 2010
 10. **Dylan Poulsen**, Ian A. Gravagne, John M. Davis, and Robert J. Marks. "On the stability of mu-varying dynamic equations on stochastically generated time scales." *2012 44th Southeastern Symposium on System Theory (SSST).* IEEE, 2012.
 11. **Dylan Poulsen**, Michael Z. Spivey, and Robert J. Marks. "The Poisson Process and Associated Probability Distributions on Time Scales." *2011 43rd Southeastern Symposium on System Theory (SSST).* IEEE, 2011.
 
+## National Grants
+* `Summer 2024` DSC: The Upper Eastern Shore Data Science Corps (UESDSC) at Washington College: Developing Data Science Skills in Service to Community in Rural Maryland, Submitted, $506,793
+
 ## Institutional Grants
 
 * `Summer 2020` *Lowering the Barrier to Entry in Probability via Coding and Simulation Labs,* Cromwell Center for Teaching and Learning Innovative Pedagogy Grant, Funded, $2000.
