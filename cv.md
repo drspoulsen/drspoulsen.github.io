@@ -22,7 +22,7 @@ Dynamic Equations on Time Scales, Fourier Analysis, Linear Systems, Control Theo
 **Baylor University,** Waco, TX 
 
 Ph.D. Mathematics, May 2015
-* Thesis Title: Stability and Control on Stochastically Generated Time Scales
+* Thesis Title: [Stability and Control on Stochastically Generated Time Scales](https://baylor-ir.tdl.org/server/api/core/bitstreams/b868d98a-178b-4fbb-87d5-c7905a5a4d2a/content)
 * Advisor: John M. Davis, Ph.D
 
 `2006-2010`
