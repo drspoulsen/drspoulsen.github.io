@@ -175,15 +175,15 @@ Time Scales."
 * `One Section`  MTH 1309 - Calculus for Business Students
 
 ### Mentor for Undergraduate Research At Baylor University
-* `Spring 2013` Brooklyn George "On the Stability Region for Dynamic Equations on the Cantor Set."
-* `2014-2015` Matthew Mosely " Applications of Dynamic Equations on Time Scales." Honors Thesis on Engineering
+1. `2014-2015` Matthew Mosely " Applications of Dynamic Equations on Time Scales." Honors Thesis on Engineering
+2. `Spring 2013` Brooklyn George "On the Stability Region for Dynamic Equations on the Cantor Set."
 
 ## Honors 
 
 ### Teaching Awards
 
-* `May 2015` Baylor University Department of Mathematics Outstanding Graduate Student Teaching Award.
-* `Jan 2023` Cromwell Award for Innovation in Teaching, Cromwell Center for Teaching and Learning, Washington College.
+1. `Jan 2023` Cromwell Award for Innovation in Teaching, Cromwell Center for Teaching and Learning, Washington College.
+2. `May 2015` Baylor University Department of Mathematics Outstanding Graduate Student Teaching Award.
 
 ### Professional Development Fellowships
 
@@ -191,16 +191,16 @@ Time Scales."
 
 ## Honor Societies
 
-* `Fall 2015` Pi Mu Epsilon, Iota of Maryland. Charter faculty member.
-* `Spring 2010` Phi Beta Kappa, Delta of Washington.
+1. `Fall 2015` Pi Mu Epsilon, Iota of Maryland. Charter faculty member.
+2. `Spring 2010` Phi Beta Kappa, Delta of Washington.
 
 ## Service to the Profession 
 
 ### Chairing Sessions
 
-* Joint Mathematics Meetings, Baltimore, MD Jan 2014. AMS Session on Game Theory and Computing.
-* Joint Mathematics Meetings, San Antonio, TX Jan 2015. AMS Session on Game Theory, Economics, Control Theory, and Information.
-* Joint Mathematics Meetings, Seattle, WA Jan 2016. AMS Session on Computer Science, Information, Control Theory, and Economics.
+1. Joint Mathematics Meetings, Seattle, WA Jan 2016. AMS Session on Computer Science, Information, Control Theory, and Economics.
+2. Joint Mathematics Meetings, San Antonio, TX Jan 2015. AMS Session on Game Theory, Economics, Control Theory, and Information.
+3. Joint Mathematics Meetings, Baltimore, MD Jan 2014. AMS Session on Game Theory and Computing.
 
 ### Peer Review
 
