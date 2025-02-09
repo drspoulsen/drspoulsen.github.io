@@ -37,25 +37,25 @@ B.S., Mathematics, May 2010
 ### Journal articles
 
 1. [Tom Cuchta, **Dylan Poulsen**, and Nick Wintz "Linear Quadratic Tracking and Continuous Conformable Derivatives" *European Journal of Control.* **72**; (2023) 100808.](https://www.sciencedirect.com/science/article/abs/pii/S0947358023000377)
-2. Billy J. Jackson, John M. Davis, and **Dylan Poulsen** "A Polar Representation of the Hilger Complex Plane" *International Journal of Difference Equations* **15**: (2020) 419 - 427.
-3. **Dylan Poulsen**, Michael Defoort, and Mohamed Djemai "Mean Square Consensus of Double-Integrator Multi-Agent Systems Under Intermittent Control: A Stochastic Time Scale Approach" *Journal of the Franklin Institute* **356**: (2019) 9076 - 9094.
-4. **Dylan Poulsen** and Nick Wintz. "The Kalman Filter on Stochastic Time Scales." *Nonlinear Analysis: Hybrid Systems* **33** (2019): 151-161.
-5. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Mean Square Stabilityfor Systems on Stochastically Generated Discrete Time Scales." *Nonlinear Analysis: Hybrid Systems* **31** (2019): 41-55.
-6. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "The Geometry of the Region of Uniform Exponential Stability for Linear Time Invariant Dynamic Equations on Time Scales." *DCDIS Series A: Mathematical Analysis* **25** (2018): 159-173.
+2. [Billy J. Jackson, John M. Davis, and **Dylan Poulsen** "A Polar Representation of the Hilger Complex Plane" *International Journal of Difference Equations* **15**: (2020) 419 - 427.](https://campus.mst.edu/ijde/contents/v15n2p14.pdf)
+3. [**Dylan Poulsen**, Michael Defoort, and Mohamed Djemai "Mean Square Consensus of Double-Integrator Multi-Agent Systems Under Intermittent Control: A Stochastic Time Scale Approach" *Journal of the Franklin Institute* **356**: (2019) 9076 - 9094.](https://www.sciencedirect.com/science/article/abs/pii/S0016003219305277)
+4. [**Dylan Poulsen** and Nick Wintz. "The Kalman Filter on Stochastic Time Scales." *Nonlinear Analysis: Hybrid Systems* **33** (2019): 151-161.](https://www.sciencedirect.com/science/article/abs/pii/S1751570X19300287)
+5. [**Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Mean Square Stability for Systems on Stochastically Generated Discrete Time Scales." *Nonlinear Analysis: Hybrid Systems* **31** (2019): 41-55.](https://www.sciencedirect.com/science/article/abs/pii/S1751570X1830061X)
+6. [**Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "The Geometry of the Region of Uniform Exponential Stability for Linear Time Invariant Dynamic Equations on Time Scales." *DCDIS Series A: Mathematical Analysis* **25** (2018): 159-173.](https://online.watsci.org/abstract_pdf/2018v25/v25n3a-pdf/2.pdf)
 
 ### Peer-Reviewed Conference Publications
 
-1. **Dylan Poulsen**, Michael Defoort, and Mohamed Djemai. "Observer-Based Output Feedback Consensus Protocol for Double-Integrator Multi-Agent Systems Under Intermittent Sampled Position Measurements." *IFAC-PapersOnLine*. IFAC, 2020.
-2. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Optimal Control on Stochastic Time Scales." *IFAC-PapersOnLine*. IFAC, 2017.
-3. **Dylan Poulsen**, Shaun Ramsey, and Nathaniel Schwartz. "The Emergence of Chaos on Non-Uniformly Timed Systems." *2017 51st Annual Conference on Information Sciences and Systems (CISS)*. IEEE, 2017.
-4. **Dylan Poulsen**, Ian A. Gravagne, and John M. Davis. "Numeric and Analytic Investigations of Mean-Square Exponential Stability for Stochastically Timed Systems." *2015 Dynamic Systems and Control Conference*. ASME, 2015.
-5. Matthew Mosley, Ian A. Gravagne, John M. Davis, and **Dylan Poulsen**. " Experimental Investigation of a Time Scales-Based Stability Criterion Over Finite Time Horizons." 2015 Dynamic Systems and Control Conference. ASME, 2015.
-6. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Is Deterministic Real Time Control Always Necessary? A Time Scales Perspective." *2014 Dynamic Systems and Control Conference.* ASME, 2014.
-7. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Observer based feedback controllers on stochastic time scales." *2013 45th Southeastern Symposium on System Theory (SSST).* IEEE, 2013.
-8. **Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Stochastic time scales: quadratic Lyapunov functions and probabilistic regions of stability." *2013 45th Southeastern Symposium on System Theory (SSST).* IEEE, 2013.
-9. Ian A. Gravagne, John M. Davis, and **Dylan Poulsen**. "Time scale-based observer design for battery state-of-charge estimation." *2012 44th Southeastern Symposium on System Theory (SSST).* IEEE, 2012.
-10. **Dylan Poulsen**, Ian A. Gravagne, John M. Davis, and Robert J. Marks. "On the stability of mu-varying dynamic equations on stochastically generated time scales." *2012 44th Southeastern Symposium on System Theory (SSST).* IEEE, 2012.
-11. **Dylan Poulsen**, Michael Z. Spivey, and Robert J. Marks. "The Poisson Process and Associated Probability Distributions on Time Scales." *2011 43rd Southeastern Symposium on System Theory (SSST).* IEEE, 2011.
+1. [**Dylan Poulsen**, Michael Defoort, and Mohamed Djemai. "Observer-Based Output Feedback Consensus Protocol for Double-Integrator Multi-Agent Systems Under Intermittent Sampled Position Measurements." *IFAC-PapersOnLine*. IFAC, 2020.](https://www.sciencedirect.com/science/article/pii/S2405896320313549)
+2. [**Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Optimal Control on Stochastic Time Scales." *IFAC-PapersOnLine*. IFAC, 2017.](https://www.sciencedirect.com/science/article/pii/S2405896317334377)
+3. [**Dylan Poulsen**, Shaun Ramsey, and Nathaniel Schwartz. "The Emergence of Chaos on Non-Uniformly Timed Systems." *2017 51st Annual Conference on Information Sciences and Systems (CISS)*. IEEE, 2017.](https://ieeexplore.ieee.org/document/7926087)
+4. [**Dylan Poulsen**, Ian A. Gravagne, and John M. Davis. "Numeric and Analytic Investigations of Mean-Square Exponential Stability for Stochastically Timed Systems." *2015 Dynamic Systems and Control Conference*. ASME, 2015.](https://asmedigitalcollection.asme.org/DSCC/proceedings-abstract/DSCC2015/57243/V001T02A005/228168)
+5. [Matthew Mosley, Ian A. Gravagne, John M. Davis, and **Dylan Poulsen**. "Experimental Investigation of a Time Scales-Based Stability Criterion Over Finite Time Horizons." 2015 Dynamic Systems and Control Conference. ASME, 2015.](https://asmedigitalcollection.asme.org/DSCC/proceedings-abstract/DSCC2015/57243/V001T02A006/228024)
+6. [**Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Is Deterministic Real Time Control Always Necessary? A Time Scales Perspective." *2014 Dynamic Systems and Control Conference.* ASME, 2014.](https://asmedigitalcollection.asme.org/DSCC/proceedings-abstract/DSCC2014/46209/V003T41A002/229708)
+7. [**Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Observer based feedback controllers on stochastic time scales." *2013 45th Southeastern Symposium on System Theory (SSST).* IEEE, 2013.](https://ieeexplore.ieee.org/document/6524949)
+8. [**Dylan Poulsen**, John M. Davis, and Ian A. Gravagne. "Stochastic time scales: quadratic Lyapunov functions and probabilistic regions of stability." *2013 45th Southeastern Symposium on System Theory (SSST).* IEEE, 2013.](https://ieeexplore.ieee.org/document/6524948)
+9. [Ian A. Gravagne, John M. Davis, and **Dylan Poulsen**. "Time scale-based observer design for battery state-of-charge estimation." *2012 44th Southeastern Symposium on System Theory (SSST).* IEEE, 2012.](https://ieeexplore.ieee.org/document/6195130)
+10. [**Dylan Poulsen**, Ian A. Gravagne, John M. Davis, and Robert J. Marks. "On the stability of mu-varying dynamic equations on stochastically generated time scales." *2012 44th Southeastern Symposium on System Theory (SSST).* IEEE, 2012.](https://ieeexplore.ieee.org/document/6195126)
+11. [**Dylan Poulsen**, Michael Z. Spivey, and Robert J. Marks. "The Poisson Process and Associated Probability Distributions on Time Scales." *2011 43rd Southeastern Symposium on System Theory (SSST).* IEEE, 2011.](https://ieeexplore.ieee.org/document/5753775)
 
 ## National Grants
 * `Summer 2024` DSC: The Upper Eastern Shore Data Science Corps (UESDSC) at Washington College: Developing Data Science Skills in Service to Community in Rural Maryland, Submitted, $506,793
