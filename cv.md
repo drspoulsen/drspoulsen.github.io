@@ -14,7 +14,7 @@ Mathematician, Writer, Educator, Consultant
 
 ## Research Interests
 
-Dynamic Equations on Time Scales, Linear Systems, Control Theory, Stochastic Processes, Matrix Equations
+Dynamic Equations on Time Scales, Fourier Analysis, Linear Systems, Control Theory, Stochastic Processes, Matrix Equations, Data Science.
 
 ## Education
 
@@ -36,7 +36,7 @@ B.S., Mathematics, May 2010
 
 ### Journal articles
 
-1. Tom Cuchta, **Dylan Poulsen**, and Nick Wintz "Linear Quadratic Tracking and Continuous Conformable Derivatives" *European Journal of Control.* To appear.
+1. Tom Cuchta, **Dylan Poulsen**, and Nick Wintz "Linear Quadratic Tracking and Continuous Conformable Derivatives" *European Journal of Control.* **72**; (2023) 100808.
 2. Billy J. Jackson, John M. Davis, and **Dylan Poulsen** "A Polar Representation of the Hilger Complex Plane" *International Journal of Difference Equations* **15**: (2020) 419 - 427.
 3. **Dylan Poulsen**, Michael Defoort, and Mohamed Djemai "Mean Square Consensus of Double-Integrator Multi-Agent Systems Under Intermittent Control: A Stochastic Time Scale Approach" *Journal of the Franklin Institute* **356**: (2019) 9076 - 9094.
 4. **Dylan Poulsen** and Nick Wintz. "The Kalman Filter on Stochastic Time Scales." *Nonlinear Analysis: Hybrid Systems* **33** (2019): 151-161.
@@ -70,36 +70,36 @@ B.S., Mathematics, May 2010
 
 ### Invited Colloquim Speaker
 
-* `Jan 2022` Christopher Newport University Department of Mathematics Colloquium. "Finding Mathematical Joy Cutting Onions."
-* `June 2018` University of Valenciennes Séminaire ROC du Département Auto. "Stability of Linear Systems Subject to Stochastic Timing."
-* `Mar 2018` United States Naval Academy Applied Mathematics Seminar. "Engineering in an Imperfect World."
-* `Sept 2016` Christopher Newport University Department of Mathematics Colloquium. "Engineering in an Imperfect World."
+1. `Jan 2022` Christopher Newport University Department of Mathematics Colloquium. "Finding Mathematical Joy Cutting Onions."
+2. `June 2018` University of Valenciennes Séminaire ROC du Département Auto. "Stability of Linear Systems Subject to Stochastic Timing."
+3. `Mar 2018` United States Naval Academy Applied Mathematics Seminar. "Engineering in an Imperfect World."
+4. `Sept 2016` Christopher Newport University Department of Mathematics Colloquium. "Engineering in an Imperfect World."
 
 ### Conference Speaker
 
-* `July 2020` IFAC World Congress, Berlin, Germany (Virtual). "Observer-Based Output Feedback Consensus Protocol for Double-Integrator Multi-Agent Systems Under Intermittent Sampled Position Measurements."
-* `Jan 2019` Joint Mathematics Meetings, Baltimore, MD. "Consensus of Multi-Agent Systems: A Time Scales Approach."
-* `July 2017` IFAC World Congress, Toulouse, France July 2017. "Opitmal Control on Stochastic Time Scales."
-* `Jan 2016` Joint Mathematics Meetings, Seattle, WA. "Can an Unstable Control System Be Stabilized By Timing Noise?"
-* `Nov 2015` MAA MD-DC-VA Sectional Meeting, Saint Marys City, MD. "Can an Unstable Control System Be Stabilized By Timing Noise?"
-* `Oct 2015` ASME 2015 Dynamic Systems and Control Conference, Columbus, OH. "Numeric and Analytic Investigations of Mean-Square Exponential Stability for Stochastically Timed Systems."
-* `Jan 2015` Joint Mathematics Meetings, San Antonio, TX. "The Geometry of the Region of Uniform Exponential Stability on an Arbitrary Time Scale."
-* `Oct 2014` ASME 2014 Dynamic Systems and Control Conference, San Antonio, TX. "Is Deterministic Real Time Control Always Necessary? A Time Scales Perspective."
-* `Jan 2014` Joint Mathematics Meetings, Baltimore, MD. "Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
-* `Oct 2013` Central Section Fall Meeting of the AMS, St. Louis, MO. "Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
-* `Mar 2013` Southeastern Symposium on Systems Theory, Waco, TX. 
-1. "Stochastic Time Scales: Quadratic Lyapunov Functions and Probabilistic Regions of Stability."
-2. "Observer Based Feedback Controllers on Stochastic Time Scales."
-* `Mar 2012` Southeastern Symposium on Systems Theory, Jacksonville, FL.
-1. "On the Stability of Mu-Varying Dynamic Equations on Stochastically Generated Time Scales."
-2. "Time Scale-Based Observer Design for Battery State-of-Charge Estimation."
-* `Mar 2011` Southeastern Symposium on Systems Theory, Auburn, AL. "The Poisson Process and Associated Probability Distributions on
+1. `July 2020` IFAC World Congress, Berlin, Germany (Virtual). "Observer-Based Output Feedback Consensus Protocol for Double-Integrator Multi-Agent Systems Under Intermittent Sampled Position Measurements."
+2. `Jan 2019` Joint Mathematics Meetings, Baltimore, MD. "Consensus of Multi-Agent Systems: A Time Scales Approach."
+3. `July 2017` IFAC World Congress, Toulouse, France July 2017. "Opitmal Control on Stochastic Time Scales."
+4. `Jan 2016` Joint Mathematics Meetings, Seattle, WA. "Can an Unstable Control System Be Stabilized By Timing Noise?"
+5. `Nov 2015` MAA MD-DC-VA Sectional Meeting, Saint Marys City, MD. "Can an Unstable Control System Be Stabilized By Timing Noise?"
+6. `Oct 2015` ASME 2015 Dynamic Systems and Control Conference, Columbus, OH. "Numeric and Analytic Investigations of Mean-Square Exponential Stability for Stochastically Timed Systems."
+7. `Jan 2015` Joint Mathematics Meetings, San Antonio, TX. "The Geometry of the Region of Uniform Exponential Stability on an Arbitrary Time Scale."
+8. `Oct 2014` ASME 2014 Dynamic Systems and Control Conference, San Antonio, TX. "Is Deterministic Real Time Control Always Necessary? A Time Scales Perspective."
+9. `Jan 2014` Joint Mathematics Meetings, Baltimore, MD. "Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
+10. `Oct 2013` Central Section Fall Meeting of the AMS, St. Louis, MO. "Stability of Markov Chains: A Time Scales Viewpoint with Applications to Control."
+11. `Mar 2013` Southeastern Symposium on Systems Theory, Waco, TX. 
+* "Stochastic Time Scales: Quadratic Lyapunov Functions and Probabilistic Regions of Stability."
+* "Observer Based Feedback Controllers on Stochastic Time Scales."
+12. `Mar 2012` Southeastern Symposium on Systems Theory, Jacksonville, FL.
+* "On the Stability of Mu-Varying Dynamic Equations on Stochastically Generated Time Scales."
+* "Time Scale-Based Observer Design for Battery State-of-Charge Estimation."
+13. `Mar 2011` Southeastern Symposium on Systems Theory, Auburn, AL. "The Poisson Process and Associated Probability Distributions on
 Time Scales."
-* `Oct 2009` Central Section Fall Meeting of the AMS, Waco, TX. "Coupled Conditions for Asymptotic Equivalence on Time Scales."
-* `Oct 2009` INFORMS Annual National Meeting, San Diego, CA. "The Optimal Tilt Angle of Solar Panels."
-* `Aug 2009` MAA MathFest, Portland, OR. "The Optimal Tilt Angle of Solar Panels."
-* `June 2009` Rocky Mountain Mathematics Consortium, Laramie, WY. "Coupled Conditions for Asymptotic Equivalence on Time Scales."
-* `Apr 2009` MAA Paciffic Northwest Sectional Meeting, Ellensburg, WA. "The Asymptotic Behavior of Dynamic Equations on Time Scales."
+14. `Oct 2009` Central Section Fall Meeting of the AMS, Waco, TX. "Coupled Conditions for Asymptotic Equivalence on Time Scales."
+15. `Oct 2009` INFORMS Annual National Meeting, San Diego, CA. "The Optimal Tilt Angle of Solar Panels."
+16. `Aug 2009` MAA MathFest, Portland, OR. "The Optimal Tilt Angle of Solar Panels."
+17. `June 2009` Rocky Mountain Mathematics Consortium, Laramie, WY. "Coupled Conditions for Asymptotic Equivalence on Time Scales."
+18. `Apr 2009` MAA Paciffic Northwest Sectional Meeting, Ellensburg, WA. "The Asymptotic Behavior of Dynamic Equations on Time Scales."
 
 ### Conference Poster Presentations
 
@@ -124,8 +124,9 @@ Time Scales."
 * `Two Sections` MAT 210 - Multivariable Calculus
 * `One Section` CSI 220 - Introduction to Data Science
 * `Seven Sections`  MAT 280 - Linear Algebra
-* `Fice Sections`  MAT 310 - Differential Equations
+* `Six Sections`  MAT 310 - Differential Equations
 * `Two Sections`  MAT 320 - Probability Theory
+* `One Section` CSI 360 - Machine Learning
 * `One Section` MAT 392 and 492 - Junior and Senior Math Seminar
 * `One Section` MAT 394 - Partial Differential Equations
 * `Three Sections`  MAT 470 - Real Analysis
