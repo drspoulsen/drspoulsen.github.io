@@ -7,3 +7,4 @@ My colleagues and I have been reexamining some basic time scales operations in o
 
 <iframe width='800' height='400' src='https://www.wolframcloud.com/obj/dpoulsen2/Published/Circle_Plus_Dynamic.nb' frameborder='0'></iframe>
 
+Testing testing 1,2,3
