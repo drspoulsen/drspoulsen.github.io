@@ -4,8 +4,6 @@ title: Speaking
 permalink: /speaking/
 ---
 
-# Speaking
-
 I enjoy sharing mathematics with a wide range of audiences, from undergraduates encountering new ideas to fellow researchers. My blog post on the **“onion constant,”** a new mathematical constant which arises from tring to make onion slices as even as possible, has entered popular discourse with coverage in media such as:
 
 - [**The New York Times**](https://www.nytimes.com/article/how-to-cut-onion.html), spotlighting Chef Kenji López-Alt’s curiosity around how to chop an onion optimally, and how my mathematical work refines his idea. 
