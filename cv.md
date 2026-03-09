@@ -138,9 +138,9 @@ Time Scales."
 ### Senior Capstone Projects Mentored at Washington College
 
 1. `2025-2026` Maura Collins
-2. `2024-2025` Jack Poleto 
-1. `2024-2025` Matthew Hutter 
-1. `2024-2025` Rachel Beall
+2. `2024-2025` Jack Poleto "*Deal or No Deal* : Rationality, Risk Preferences, and Decision Making"
+1. `2024-2025` Matthew Hutter "Fractals As Iterated Systems"
+1. `2024-2025` Rachel Beall "Predicting Forest Carbon Fluctuation Through Ecosystem Climate Model Biome-BGCMuSo"
 1. `2024` Chiruvanuru Kumar Tapaswin "Comparative Study of Classification Techniques in BSM Higgs Boson Searches."
 1. `2022-2023` Sneha Dixit "The Fourier Transform and Applications."
 2. `2022-2023` Seyed Marjaei "Propeller Design and Dynamic Mode Decomposition."
