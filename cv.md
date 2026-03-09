@@ -123,21 +123,24 @@ Time Scales."
 * `Twelve Sections` MAT 111 - Differential Calculus
 * `Twelve Sections` MAT 112 - Integral Calculus
 * `Two Sections` MAT 199 - History of Mathematics
+* `One Section` MAT 209 - Statistics II
 * `Two Sections` MAT 210 - Multivariable Calculus
 * `One Section` CSI 220 - Introduction to Data Science
 * `Seven Sections`  MAT 280 - Linear Algebra
-* `Six Sections`  MAT 310 - Differential Equations
+* `Seven Sections`  MAT 310 - Differential Equations
 * `Two Sections`  MAT 320 - Probability Theory
 * `One Section` CSI 360 - Machine Learning
 * `One Section` MAT 392 and 492 - Junior and Senior Math Seminar
 * `One Section` MAT 394 - Partial Differential Equations
+* `One Section` CSI 450 - Data Ethics and Practicum
 * `Three Sections`  MAT 470 - Real Analysis
 
 ### Senior Capstone Projects Mentored at Washington College
 
-1. `2024-2025` Jack Poleto (In Progress)
-1. `2024-2025` Matthew Hutter (In Progress)
-1. `2024-2025` Rachel Beall (In Progress)
+1. `2025-2026` Maura Collins
+2. `2024-2025` Jack Poleto 
+1. `2024-2025` Matthew Hutter 
+1. `2024-2025` Rachel Beall
 1. `2024` Chiruvanuru Kumar Tapaswin "Comparative Study of Classification Techniques in BSM Higgs Boson Searches."
 1. `2022-2023` Sneha Dixit "The Fourier Transform and Applications."
 2. `2022-2023` Seyed Marjaei "Propeller Design and Dynamic Mode Decomposition."
