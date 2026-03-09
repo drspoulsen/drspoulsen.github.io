@@ -36,7 +36,8 @@ B.S., Mathematics, May 2010
 
 ### Journal articles
 
-1. **Dylan Poulsen** "How to Cut An Onion Optimally: A Love Letter to the Jacobian" *Mathematics Magazine.* Accepted
+1. [John M. Davis, Billy J. Jackson, and **Dylan R. Poulsen** "Ergodic Complex Plane and Cylinder Transformation on a Periodic Time Scale" *Electronic Journal of Differential Equations* Vol. 2026 (2026), No. 04, pp. 1-20.](https://ejde.math.txstate.edu/Volumes/2026/04/davis.pdf)
+1. [**Dylan Poulsen** "How to Cut An Onion Optimally: A Love Letter to the Jacobian" *Mathematics Magazine.* 1-15](https://www.tandfonline.com/doi/full/10.1080/0025570X.2025.2521248)
 1. [Tom Cuchta, **Dylan Poulsen**, and Nick Wintz "Linear Quadratic Tracking and Continuous Conformable Derivatives" *European Journal of Control.* **72**; (2023) 100808.](https://www.sciencedirect.com/science/article/abs/pii/S0947358023000377)
 2. [Billy J. Jackson, John M. Davis, and **Dylan Poulsen** "A Polar Representation of the Hilger Complex Plane" *International Journal of Difference Equations* **15**: (2020) 419 - 427.](https://campus.mst.edu/ijde/contents/v15n2p14.pdf)
 3. [**Dylan Poulsen**, Michael Defoort, and Mohamed Djemai "Mean Square Consensus of Double-Integrator Multi-Agent Systems Under Intermittent Control: A Stochastic Time Scale Approach" *Journal of the Franklin Institute* **356**: (2019) 9076 - 9094.](https://www.sciencedirect.com/science/article/abs/pii/S0016003219305277)
