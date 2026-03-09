@@ -1,8 +1,10 @@
 
 .highlight {
-  background-color: #00a1e1;
+  background-color: #002b36;
+  color: #93A1A1;
   padding: 7px 7px 7px 10px;
   border: 1px solid #ddd;
+  border-radius: 4px;
   -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
   -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
   box-shadow: 3px 3px rgba(0,0,0,0.1);
@@ -12,6 +14,14 @@
 
 code {
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
+}
+
+// Inline code (not inside a highlight block)
+p code, li code, td code {
+  background-color: #f0f0f0;
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-size: 0.9em;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
